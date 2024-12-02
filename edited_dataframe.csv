@@ -1,0 +1,1273 @@
+Company,TypeName,Inches,Ram,OpSys,Weight,Price,ScreenBreadth,ScreenLength,Screen Panel Type,Additional Screen Features,CPU Brand,CPU Series,CPU Clock Speed,Memory Size,Additional Memory,Memory Type,GPU Brand,GPU Series
+Apple,Ultrabook,13.3,8,macOS,1.4,71378,2560,1600,IPS Panel,Retina Display,Intel,Core,2.3,128,0,SSD,Intel,Iris
+Apple,Ultrabook,13.3,8,macOS,1.3,47895,1440,900,Standard,Standard,Intel,Core,1.8,128,0,Flash,Intel,HD
+HP,Notebook,15.6,8,No OS,1.9,30636,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Apple,Ultrabook,15.4,16,macOS,1.8,135195,2880,1800,IPS Panel,Retina Display,Intel,Core,2.7,512,0,SSD,AMD,Radeon
+Apple,Ultrabook,13.3,8,macOS,1.4,96095,2560,1600,IPS Panel,Retina Display,Intel,Core,3.1,256,0,SSD,Intel,Iris
+Acer,Notebook,15.6,4,Windows 10,2.1,21312,1366,768,Standard,Standard,AMD,A9-Series,3,500,0,HDD,AMD,Radeon
+Apple,Ultrabook,15.4,16,Mac OS X,2.0,114017,2880,1800,IPS Panel,Retina Display,Intel,Core,2.2,256,0,Flash,Intel,Iris
+Apple,Ultrabook,13.3,8,macOS,1.3,61735,1440,900,Standard,Standard,Intel,Core,1.8,256,0,Flash,Intel,HD
+Asus,Ultrabook,14,16,Windows 10,1.3,79653,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Nvidia,GeForce
+Acer,Ultrabook,14,8,Windows 10,1.6,41025,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+HP,Notebook,15.6,4,No OS,1.9,20986,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,No OS,1.9,18381,1920,1080,Standard,Full HD,Intel,Core,2,500,0,HDD,Intel,HD
+Apple,Ultrabook,15.4,16,macOS,1.8,130001,2880,1800,IPS Panel,Retina Display,Intel,Core,2.8,256,0,SSD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.2,26581,1920,1080,Standard,Full HD,Intel,Core,2,256,0,SSD,AMD,Radeon
+Apple,Ultrabook,12,8,macOS,0.9,67260,2304,1440,IPS Panel,Retina Display,Intel,Core,1.2,256,0,SSD,Intel,HD
+Apple,Ultrabook,13.3,8,macOS,1.4,80908,2560,1600,IPS Panel,Retina Display,Intel,Core,2.3,256,0,SSD,Intel,Iris
+Dell,Notebook,15.6,8,Windows 10,2.2,39693,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+Apple,Ultrabook,15.4,16,macOS,1.8,152274,2880,1800,IPS Panel,Retina Display,Intel,Core,2.9,512,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,No OS,2.2,26586,1920,1080,Standard,Full HD,Intel,Core,2.4,1024,0,HDD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,52161,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,128,0,SSD,Intel,UHD
+Lenovo,Gaming,15.6,8,Windows 10,2.5,53226,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,No OS,1.9,13746,1366,768,Standard,Standard,AMD,E-Series,1.5,500,0,HDD,AMD,Radeon
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,43636,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+HP,Ultrabook,15.6,8,Windows 10,1.9,35111,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.3,22305,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Apple,Ultrabook,13.3,8,Mac OS X,1.4,58554,1440,900,Standard,Standard,Intel,Core,1.6,128,0,Flash,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,42624,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Dell,Ultrabook,15.6,8,Windows 10,1.9,69157,1920,1080,Standard,Full HD,Intel,Core,1.9,256,256,SSD,Intel,UHD
+HP,Notebook,17.3,8,Windows 10,2.5,47738,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,Nvidia,GeForce
+Chuwi,Notebook,15.6,4,Windows 10,1.9,13053,1920,1080,Standard,Full HD,Intel,Atom,1.44,64,0,Flash,Intel,HD
+Asus,Notebook,14,2,Windows 10,1.6,10602,1366,768,Standard,Standard,AMD,E-Series,1.5,32,0,Flash,AMD,Radeon
+HP,Notebook,17.3,4,Windows 10,2.7,23389,1920,1080,Standard,Full HD,AMD,A6-Series,2.5,500,0,HDD,AMD,Radeon
+Dell,Ultrabook,13.3,16,Windows 10,1.2,99580,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Apple,Ultrabook,13.3,8,Mac OS X,1.4,53173,1440,900,Standard,Standard,Intel,Core,1.6,256,0,Flash,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,1.4,13266,1366,768,Standard,Standard,Intel,Celeron,1.1,64,0,Flash,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.1,19553,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,Intel,HD
+Dell,Notebook,17.3,8,Windows 10,2.8,52161,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,128,1024,SSD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,1.9,26037,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.1,46833,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Linux,2.0,20725,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,2.6,79866,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,8,Linux,2.3,27864,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.2,36336,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,2 in 1 Convertible,17.3,12,Windows 10,2.8,53226,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,1024,0,HDD,Nvidia,GeForce
+Apple,Ultrabook,13.3,8,macOS,1.4,75604,2560,1600,IPS Panel,Retina Display,Intel,Core,2.0,256,0,SSD,Intel,Iris
+Asus,Gaming,17.3,8,Windows 10,3.2,69210,1920,1080,Standard,Full HD,AMD,Ryzen,3,256,1024,SSD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.3,34045,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Asus,Notebook,17.3,4,Windows 10,2.8,24828,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,8,Windows 10,2.2,44808,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,1.9,21231,1920,1080,Standard,Full HD,AMD,A6-Series,2.5,256,0,SSD,AMD,Radeon
+HP,Notebook,13.3,8,Windows 10,1.5,58767,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Acer,Notebook,15.6,4,Windows 10,2.4,20459,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.1,40908,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,1.9,23389,1920,1080,Standard,Full HD,Intel,Core,2,128,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,31232,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.4,130482,1920,1080,Standard,Full HD,Intel,Core,2.8,256,2048,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Linux,2.0,22111,1920,1080,Standard,Full HD,Intel,Core,2,256,0,SSD,Intel,HD
+Dell,Notebook,17.3,16,Windows 10,2.8,69210,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+Dell,Ultrabook,14,8,Windows 10,1.7,46833,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Notebook,14,8,No OS,1.7,31914,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,Notebook,14,8,Windows 10,1.4,50136,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+HP,Notebook,15.6,8,Windows 10,1.9,36763,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Ultrabook,15.6,16,Windows 10,1.8,105654,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,1.9,23373,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,AMD,Radeon
+HP,Notebook,14,4,Windows 10,1.4,12201,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,1.9,29250,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,12,Linux,3.0,50562,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.3,58021,2256,1504,Touchscreen,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,64,Windows 10,1.4,50882,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Dell,Notebook,15.6,8,Windows 10,2.2,46353,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+MSI,Gaming,17.3,8,Windows 10,2.7,58341,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Acer,Notebook,14,8,Windows 10,2.1,20725,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.2,50562,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,27652,1920,1080,Standard,Full HD,Intel,Core,2.5,2048,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,45554,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,Intel,UHD
+Acer,Notebook,15.6,4,Windows 10,2.2,28238,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,17.3,8,Windows 10,2.5,52054,1920,1080,Standard,Full HD,Intel,Core,1.6,128,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,15.6,8,Windows 10,1.9,58403,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Apple,Ultrabook,12,8,macOS,0.9,80452,2304,1440,IPS Panel,Retina Display,Intel,Core,1.3,512,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.6,45820,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,21258,1920,1080,Standard,Full HD,AMD,A6-Series,2.5,128,0,SSD,AMD,R4
+Acer,Notebook,15.6,4,Windows 10,2.1,21045,1366,768,Standard,Standard,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+Dell,Gaming,15.6,16,Windows 10,2.6,71874,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,15.6,8,Windows 10,1.8,37242,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,31914,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Gaming,15.6,16,Windows 10,2.2,77202,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,87858,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Asus,Gaming,15.6,8,Windows 10,2.4,37242,1920,1080,Standard,Full HD,AMD,FX,3,1024,0,HDD,AMD,Radeon
+Acer,Notebook,15.6,2,Windows 10,2.2,36709,1920,1080,Standard,Full HD,Intel,Core,1.8,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,13.3,16,Windows 10,1.5,63776,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Dell,Gaming,15.6,8,Windows 10,2.6,63669,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Ultrabook,14,8,Windows 10,1.2,55890,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,45128,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,Notebook,15.6,8,Linux,2.2,31962,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Linux,2.2,25840,1920,1080,Standard,Full HD,Intel,Core,2,256,0,SSD,AMD,Radeon
+Asus,Notebook,15.6,6,Windows 10,2.0,30742,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Nvidia,GeForce
+HP,Gaming,15.6,12,Windows 10,2.6,66546,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,1.9,38308,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,2.1,18594,1920,1080,Standard,Full HD,AMD,E-Series,1.5,500,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,8,Linux,2.2,34472,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,AMD,Radeon
+HP,Ultrabook,13.3,8,Windows 10,1.4,59620,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.3,71395,2256,1504,Touchscreen,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,14,6,Windows 10,1.6,35111,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,1.8,22105,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Intel,HD
+Asus,Ultrabook,14,8,Windows 10,1.3,63563,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,16,Windows 10,2.2,69210,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.6,78854,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,Ultrabook,15.6,16,Windows 10,1.5,67239,1920,1080,Standard,Full HD,Intel,Core,1.8,256,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,73473,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.4,256,0,SSD,Intel,Iris
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,74538,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,1.6,38468,1366,768,IPS Panel,Standard,Intel,Core,1.6,500,0,HDD,Intel,UHD
+Dell,Ultrabook,13.3,8,Windows 10,1.2,86793,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+HP,Notebook,14,8,Windows 10,1.6,57755,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Dell,Notebook,15.6,8,Windows 10,2.2,60223,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,1024,SSD,Nvidia,GeForce
+Asus,Notebook,17.3,4,Windows 10,2.0,30049,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,15.6,8,Windows 10,1.7,59567,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,6,Windows 10,2.1,25521,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,1024,0,HDD,Intel,HD
+MSI,Gaming,15.6,16,Windows 10,1.8,119427,1920,1080,Standard,Full HD,Intel,Core,2.8,256,2048,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,33513,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+HP,Notebook,17.3,16,Windows 10,2.5,67718,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,24029,1366,768,Standard,Standard,AMD,A9-Series,3,256,0,SSD,AMD,Radeon
+HP,Notebook,14,8,Windows 10,1.6,43263,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,Intel,UHD
+Asus,Notebook,14,4,Windows 10 S,1.6,14811,1366,768,Standard,Standard,AMD,E-Series,1.5,64,0,SSD,AMD,Radeon
+Dell,Notebook,17.3,16,Windows 10,2.8,74378,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+HP,Notebook,17.3,8,Windows 10,2.5,49443,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,Notebook,15.6,8,Windows 10,2.4,34045,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.2,23922,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,AMD,Radeon
+Acer,Ultrabook,14,8,Windows 10,1.6,47099,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Acer,Notebook,15.6,4,Windows 10,7.2,30476,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,31861,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.6,52640,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Lenovo,Notebook,15.6,4,No OS,1.9,13445,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,3.0,49976,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,No OS,2.2,26586,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,13.3,4,Windows 10,1.3,37242,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,17.3,4,Windows 10,3.0,34898,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.8,59461,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Lenovo,Gaming,15.6,8,No OS,2.4,46300,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,4,Windows 10,2.1,32074,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.9,19660,1366,768,Standard,Standard,AMD,A6-Series,2.5,256,0,SSD,AMD,Radeon
+Asus,Ultrabook,14,8,Windows 10,1.2,58554,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+HP,Ultrabook,12.5,8,Windows 10,1.0,107305,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.2,512,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,18328,1920,1080,Standard,Full HD,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.1,23816,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,2.6,66560,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,8,Windows 10,2.6,47898,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,Hybrid,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,1.9,26533,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.8,100699,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,14,4,Windows 10,1.5,57648,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+HP,Notebook,15.6,6,Windows 10,1.9,32980,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,14,4,Windows 10,1.7,33513,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,70063,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,256,0,SSD,Intel,HD
+Dell,2 in 1 Convertible,15.6,8,Windows 10,1.6,55890,1920,1080,Touchscreen,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Toshiba,Notebook,15.6,4,Windows 10,2.1,23816,1366,768,Standard,Standard,Intel,Core,2.2,500,0,HDD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,21471,1366,768,Standard,Standard,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+Acer,Notebook,17.3,4,Windows 10,3.0,42890,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.1,38787,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Lenovo,Gaming,15.6,16,Windows 10,2.5,57489,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,18541,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+MSI,Gaming,15.6,16,Windows 10,2.4,95850,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,19367,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,56502,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Acer,Notebook,17.3,8,Windows 10,3.0,45501,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+HP,Notebook,13.3,4,Windows 10,1.5,40173,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,500,0,HDD,Intel,UHD
+Huawei,Ultrabook,13,8,Windows 10,1.0,71874,2160,1440,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,17.3,6,Windows 10,2.7,37242,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,2048,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,4,No OS,2.2,16463,1366,768,Standard,Standard,AMD,A6-Series,2.9,500,0,HDD,AMD,Radeon
+Toshiba,Notebook,15.6,4,Windows 10,5.4,26053,1366,768,Standard,Standard,Intel,Core,2.4,500,0,HDD,Intel,HD
+HP,Notebook,17.3,8,Windows 10,2.5,49177,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.3,24455,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.1,23922,1366,768,Standard,Standard,Intel,Core,2,128,0,SSD,Intel,HD
+MSI,Gaming,18.4,32,Windows 10,4.4,149130,1920,1080,Standard,Full HD,Intel,Core,2.9,512,1024,SSD,Nvidia,GTX
+Lenovo,Notebook,15.6,8,Windows 10,1.9,43316,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,AMD,R17M-M1-70
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.3,79866,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,Notebook,15.6,16,Linux,2.0,55890,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+Dell,Ultrabook,13.3,8,Windows 10,1.2,74538,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,98514,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Toshiba,Notebook,15.6,8,Windows 10,2.0,42251,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+Xiaomi,Notebook,15.6,8,No OS,2.0,63882,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,17.3,16,Windows 10,2.8,82530,1920,1080,Touchscreen,Full HD,Intel,Core,1.8,512,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,16,Windows 10,2.1,127712,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,8,No OS,2.4,41505,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Acer,Ultrabook,13.3,8,Windows 10,1.1,52693,1920,1080,IPS Panel,Full HD,Intel,Core,1.2,256,0,SSD,Intel,HD
+Dell,Notebook,17.3,8,Windows 10,2.8,57808,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,AMD,Radeon
+Vero,Notebook,14,4,Windows 10,1.3,13852,1920,1080,IPS Panel,Full HD,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Xiaomi,Ultrabook,13.3,8,No OS,1.3,53274,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,17.3,8,No OS,2.8,37189,1600,900,Standard,Standard,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,44701,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,1024,0,HDD,Intel,UHD
+HP,Notebook,17.3,8,Windows 10,2.5,48697,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,1024,0,HDD,Nvidia,GeForce
+Razer,Gaming,17.3,32,Windows 10,3.5,324954,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.9,1024,0,SSD,Nvidia,GeForce
+HP,Notebook,13.3,8,Windows 10,1.5,51095,1920,1080,Standard,Full HD,Intel,Core,1.6,512,0,SSD,Intel,UHD
+HP,Gaming,17.3,16,Windows 10,3.4,73473,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Notebook,17.3,8,Windows 10,2.5,55677,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,16,Windows 10,2.6,98301,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,2.1,26267,1366,768,Standard,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Acer,Notebook,15.6,8,Windows 10,2.2,39533,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Lenovo,Gaming,15.6,16,Windows 10,3.2,93186,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Dell,Workstation,15.6,16,Windows 10,2.8,162770,3840,2160,Standard,4K Ultra HD,Intel,Xeon,3,256,1024,SSD,Nvidia,Quadro
+Lenovo,Gaming,15.6,16,No OS,2.4,74485,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,6,Windows 10,2.3,23389,1366,768,Touchscreen,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.2,103842,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Dell,Ultrabook,13.3,8,Windows 10,1.8,77202,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Acer,Notebook,15.6,8,Linux,2.4,41505,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,2.9,74964,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,No OS,2.1,18594,1920,1080,Standard,Full HD,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,No OS,2.2,29250,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Huawei,Ultrabook,13,8,Windows 10,1.0,79866,2160,1440,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.4,49650,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,17.3,8,No OS,2.8,31381,1600,900,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,14,8,Windows 10,1.6,54931,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,14,8,Windows 10,1.6,61218,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.6,68145,1920,1080,Touchscreen,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Dell,Notebook,15.6,8,Linux,2.2,36089,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.7,47898,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,72620,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.1,42304,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,Intel,UHD
+Dell,Gaming,17.3,16,Windows 10,4.4,130873,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,8,Windows 10,2.2,44328,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,16,Windows 10,2.3,45768,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+Asus,Notebook,15.6,8,Windows 10,2.0,40972,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Notebook,17.3,8,Windows 10,2.7,47472,1920,1080,Standard,Full HD,Intel,Core,2.5,256,500,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,1.9,67612,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,AMD,FirePro
+Asus,Notebook,15.6,4,Windows 10,2.4,21258,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,17582,1366,768,Standard,Standard,AMD,E-Series,1.5,500,0,HDD,AMD,Radeon
+Lenovo,Gaming,15.6,16,Windows 10,3.2,79866,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Notebook,14,8,Windows 10,1.6,45767,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,36709,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,16,Linux,2.4,47898,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+Acer,Notebook,15.6,4,Linux,2.1,20779,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.2,30636,1920,1080,Standard,Full HD,AMD,A10-Series,2.5,128,1024,SSD,AMD,Radeon
+Asus,Gaming,17.3,32,Windows 10,4.7,207259,1920,1080,Standard,Full HD,Intel,Core,2.9,512,1024,SSD,Nvidia,GeForce
+Acer,Gaming,15.6,8,Windows 10,2.5,45074,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,7.2,31381,1366,768,Standard,Standard,Intel,Core,2,128,0,SSD,Intel,HD
+Asus,Notebook,17.3,8,Windows 10,2.1,61005,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,Nvidia,GeForce
+Asus,Notebook,17.3,8,No OS,2.7,47365,1920,1080,Standard,Full HD,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,8,Windows 10,2.6,46833,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,57489,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,52480,1920,1080,Standard,Full HD,Intel,Core,1.8,128,2048,SSD,AMD,Radeon
+HP,Notebook,15.6,8,Windows 10,2.0,29783,1366,768,Touchscreen,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,3.6,159786,1920,1080,Standard,Full HD,Intel,Core,2.9,256,0,SSD,Nvidia,GeForce
+HP,Notebook,13.3,4,Windows 10,1.5,35964,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,500,0,HDD,Intel,UHD
+Apple,Ultrabook,13.3,8,macOS,1.4,108691,2560,1600,IPS Panel,Retina Display,Intel,Core,3.1,512,0,SSD,Intel,Iris
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.1,43636,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,1024,0,HDD,Intel,UHD
+Asus,Gaming,17.3,16,Windows 10,4.3,95850,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Windows 10,1.7,24988,1366,768,Standard,Standard,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,98514,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Acer,Notebook,17.3,4,Windows 10,3.0,37402,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.4,50562,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+HP,Notebook,15.6,8,Windows 10,1.9,23757,1366,768,Standard,Standard,AMD,A6-Series,2.5,128,0,SSD,AMD,Radeon
+HP,Notebook,17.3,16,Windows 10,2.9,56423,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,1024,0,HDD,Nvidia,GeForce
+MSI,Gaming,17.3,16,Windows 10,4.1,133146,1920,1080,Standard,Full HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,90522,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Dell,Notebook,17.3,8,Windows 10,2.8,60845,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,4,No OS,2.2,23656,1920,1080,Standard,Full HD,Intel,Core,2,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,38468,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,35004,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,30103,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.7,42570,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Asus,2 in 1 Convertible,13.3,8,Windows 10,4.1,79866,1920,1080,Touchscreen,Full HD,Intel,Core,1.8,512,512,SSD,Intel,UHD
+HP,Notebook,17.3,8,Windows 10,2.5,54239,1920,1080,Standard,Full HD,Intel,Core,1.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.0,46886,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Apple,Ultrabook,13.3,8,macOS,1.4,104370,2560,1600,IPS Panel,Retina Display,Intel,Core,2.9,512,0,SSD,Intel,Iris
+Asus,Gaming,17.3,16,Windows 10,3.2,82530,1920,1080,Standard,Full HD,AMD,Ryzen,3,256,1024,SSD,AMD,Radeon
+Dell,Notebook,15.6,8,Linux,2.1,39164,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,14,16,Windows 10,1.4,133146,2560,1440,Touchscreen,Standard,Intel,Core,2.6,512,0,SSD,Intel,HD
+Toshiba,Notebook,15.6,8,Windows 10,2.2,43263,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,12,Windows 10,2.3,37992,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,Intel,HD
+Dell,Notebook,17.3,8,Linux,2.8,58554,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,AMD,Radeon
+Acer,Notebook,15.6,8,Windows 10,2.2,39693,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,17.3,4,Windows 10,2.8,26053,1600,900,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Lenovo,Notebook,17.3,8,No OS,2.8,45234,1920,1080,Standard,Full HD,Intel,Core,1.8,2048,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,17.3,6,Windows 10,2.8,45767,1600,900,Standard,Standard,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Linux,2.2,22803,1920,1080,Standard,Full HD,Intel,Core,2.0,1024,0,HDD,AMD,Radeon
+Lenovo,Gaming,15.6,8,Windows 10,2.5,44169,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,6,Windows 10,2.2,30849,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,8,Windows 10,3.0,50669,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,12,Windows 10,2.2,35111,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.0,58448,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,Ultrabook,15.6,8,Windows 10,1.7,52054,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,16,Windows 10,2.5,62817,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,35112,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,2,Chrome OS,2.2,10602,1366,768,Standard,Standard,Intel,Celeron,1.5,16,0,SSD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,3.0,63243,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,17.3,8,Windows 10,2.5,26053,1600,900,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,97449,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.0,39373,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Gaming,15.6,8,Windows 10,3.2,69210,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,8,Linux,2.5,52161,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Dell,Workstation,17.3,16,Windows 10,3.4,153705,1920,1080,Standard,Full HD,Intel,Core,2.9,256,0,SSD,Nvidia,Quadro
+Lenovo,Notebook,15.6,6,Windows 10,2.4,26586,1920,1080,Standard,Full HD,AMD,A10-Series,2.4,1024,0,HDD,AMD,Radeon
+Asus,Ultrabook,15.6,16,Windows 10,1.6,78215,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Nvidia,GeForce
+Asus,Notebook,14,4,Windows 10,1.3,27119,1366,768,Standard,Standard,Intel,Core,2.4,128,0,SSD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,2.9,113060,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,17.3,6,Windows 10,5.8,34578,1600,900,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,29250,1366,768,Standard,Standard,Intel,Core,2.5,2048,0,HDD,Nvidia,GeForce
+Asus,Gaming,15.6,8,Windows 10,2.5,67399,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,No OS,2.2,19180,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.3,105228,1920,1080,Touchscreen,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Toshiba,Notebook,15.6,8,Windows 10,2.2,55571,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.3,43636,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,1.9,24988,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Intel,HD
+Lenovo,Notebook,13.3,8,Windows 10,1.1,53226,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,16,Windows 10,1.2,133146,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,1024,0,SSD,Intel,UHD
+MSI,Gaming,15.6,16,Windows 10,2.8,111834,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,8,Windows 10,2.2,24988,1920,1080,Standard,Full HD,AMD,A8-Series,2.2,256,0,SSD,AMD,Radeon
+Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,14652,1366,768,Touchscreen,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.3,44968,1920,1080,Standard,Full HD,Intel,Core,1.6,128,1024,SSD,AMD,Radeon
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.3,130482,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,1024,0,SSD,Intel,UHD
+Lenovo,Notebook,13.3,4,Chrome OS,1.4,24503,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+HP,Notebook,14,8,Windows 10,2.0,52214,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,11.6,4,Windows 10,1.4,25840,1366,768,Standard,Standard,Intel,Pentium,1.6,128,0,Flash,Intel,HD
+HP,Notebook,14,8,Windows 10,1.5,68837,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,4,Windows 10,2.8,31381,1600,900,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,14,8,Windows 10,2.0,58288,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.1,48058,1366,768,IPS Panel,Full HD,Intel,Core,1.8,1024,0,HDD,Intel,UHD
+Acer,Notebook,15.6,8,Windows 10,2.2,35111,1366,768,Standard,Standard,AMD,A12-Series,2.7,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,14,4,Windows 10,1.4,15557,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Acer,Notebook,15.6,6,Windows 10,8.2,29250,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Asus,Ultrabook,15.6,8,Windows 10,1.7,55938,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+HP,Ultrabook,12.5,8,Windows 10,1.3,71128,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,32,Windows 10,2.1,140605,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.8,1024,0,SSD,Nvidia,GeForce
+MSI,Gaming,17.3,8,Windows 10,2.7,63882,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,8,Windows 10,2.0,50243,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Notebook,14,8,Windows 10,2.0,71075,1920,1080,Standard,Full HD,Intel,Core,2.7,256,1024,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,1.8,23922,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.5,53226,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+HP,Notebook,14,8,Windows 10,1.5,67559,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.8,60952,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Linux,2.0,14651,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,60885,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Linux,2.2,14646,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,12,Windows 10,2.2,47898,1920,1080,Standard,Full HD,AMD,A12-Series,3.6,2048,0,HDD,AMD,Radeon
+HP,Notebook,15.6,8,Windows 10,2.1,38148,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,1024,0,HDD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,111834,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Dell,Ultrabook,13.3,8,Windows 10,1.2,84129,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Lenovo,Gaming,15.6,16,Windows 10,2.4,60153,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,2048,SSD,Nvidia,GeForce
+HP,Notebook,14,2,Windows 10,1.4,14865,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Dell,Ultrabook,15.6,16,Windows 10,1.9,85672,1920,1080,Standard,Full HD,Intel,Core,1.9,512,256,SSD,Intel,UHD
+Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,19980,1366,768,Touchscreen,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Dell,Ultrabook,15.6,8,Windows 10,0.0,35324,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,AMD,Radeon
+HP,Notebook,15.6,8,Windows 10,1.8,69477,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,8,Windows 10,2.7,75071,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Workstation,15.6,8,Windows 10,2.6,92615,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Toshiba,Notebook,15.6,16,Windows 10,2.4,74751,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,512,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.0,51729,1920,1080,Standard,Full HD,Intel,Core,1.8,128,2048,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,4,No OS,2.2,17155,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,53226,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.4,29696,1366,768,Touchscreen,Standard,Intel,Core,2.5,2048,0,HDD,Intel,HD
+Dell,Notebook,14,8,Windows 10,1.4,76030,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.9,23389,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Asus,Notebook,14,8,Windows 10,2.0,50349,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,6,Windows 10,2.8,38308,1600,900,Standard,Standard,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,1.9,34045,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,No OS,2.2,26586,1366,768,Standard,Standard,Intel,Core,2,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,20725,1366,768,Standard,Standard,Intel,Pentium,1.6,2048,0,HDD,Intel,HD
+Dell,Notebook,17.3,8,Windows 10,2.8,57808,1920,1080,Standard,Full HD,Intel,Core,1.6,128,1024,SSD,AMD,Radeon
+Lenovo,Gaming,15.6,8,No OS,2.4,43103,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.3,47898,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+HP,Ultrabook,14,8,Windows 10,1.4,93240,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,58554,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,2048,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,22697,1366,768,Standard,Standard,AMD,A9-Series,3,128,0,SSD,AMD,Radeon
+Asus,Gaming,17.3,16,Windows 10,3.2,117162,1920,1080,IPS Panel,Full HD,AMD,Ryzen,3,256,1024,SSD,AMD,Radeon
+Lenovo,Notebook,17.3,4,Windows 10,2.6,26053,1600,900,Standard,Standard,AMD,A8-Series,2.2,128,0,SSD,AMD,Radeon
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,46300,1920,1080,Touchscreen,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+HP,Notebook,15.6,4,Windows 10,1.9,26053,1920,1080,Standard,Full HD,AMD,A9-Series,3,256,0,SSD,AMD,Radeon
+Lenovo,Netbook,11.6,4,Windows 10,1.6,29463,1366,768,IPS Panel,Standard,Intel,Celeron,1.1,128,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,1.8,16463,1366,768,Standard,Standard,Intel,Celeron,1.60,500,0,HDD,Intel,HD
+Asus,Notebook,14,4,Windows 10,1.5,15238,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Acer,Notebook,15.6,8,Linux,2.4,45074,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+HP,Gaming,17.3,8,Windows 10,3.4,63456,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,No OS,1.8,21498,1920,1080,Standard,Full HD,Intel,Core,2,128,0,SSD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.3,88178,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.5,58554,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Ultrabook,13.3,16,Windows 10,1.1,93181,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.1,121584,2560,1440,IPS Panel,Standard,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Notebook,13.3,4,Windows 10,1.5,29250,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,128,0,SSD,Intel,HD
+Dell,Workstation,15.6,8,Windows 10,2.2,72940,1920,1080,Standard,Full HD,Intel,Core,2.6,500,0,HDD,AMD,FirePro
+Dell,Workstation,15.6,8,Windows 10,2.0,113752,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,Quadro
+Lenovo,2 in 1 Convertible,14,16,Windows 10,1.4,133679,2560,1440,Touchscreen,Standard,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,3.0,55357,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,3.0,84768,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,12,Windows 10,2.2,36975,1366,768,IPS Panel,Standard,Intel,Core,1.6,1024,0,HDD,Nvidia,GeForce
+MSI,Gaming,17.3,8,Windows 10,2.7,71874,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Linux,2.3,41498,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+HP,Ultrabook,15.6,4,Windows 10,1.9,26586,1920,1080,Standard,Full HD,AMD,A9-Series,3,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,Windows 10,2.1,65510,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,14,8,Windows 10,1.9,49976,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Workstation,15.6,8,Windows 10,1.8,144495,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Lenovo,Ultrabook,14,16,Windows 10,1.1,139860,2560,1440,IPS Panel,Standard,Intel,Core,2.7,1024,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,16303,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,2.9,81465,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,25.6,8,Windows 10,2.1,60978,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,1024,SSD,AMD,Radeon
+Acer,Notebook,15.6,8,Linux,2.5,46833,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+MSI,Gaming,17.3,16,Windows 10,2.8,119826,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Asus,Ultrabook,14,8,Windows 10,1.1,99793,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Toshiba,Ultrabook,13.3,16,Windows 10,1.2,93080,1920,1080,Standard,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+Dell,Ultrabook,14,8,Windows 10,1.4,89510,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Intel,HD
+Lenovo,Notebook,35.6,4,Windows 10,2.2,21791,1920,1080,Standard,Full HD,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,11.6,2,Windows 10,1.2,16221,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Lenovo,Workstation,15.6,8,Windows 10,2.7,102564,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,Quadro
+Lenovo,Ultrabook,14,8,Windows 10,1.7,103523,2560,1440,IPS Panel,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,2.1,24988,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,AMD,Radeon
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,42038,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.3,49443,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.3,31909,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Dell,Notebook,13.3,4,Windows 10,1.6,36709,1366,768,Standard,Standard,Intel,Core,2,128,0,SSD,Intel,HD
+HP,Ultrabook,14,8,Windows 10,1.4,79920,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.1,28768,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.8,64755,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,101178,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Chuwi,Notebook,12.3,6,Windows 10,1.4,23922,2736,1824,IPS Panel,Retina Display,Intel,Celeron,1.1,64,0,Flash,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.3,76030,1920,1080,Standard,Full HD,Intel,Core,2.9,256,0,SSD,Intel,HD
+Asus,Notebook,35.6,8,Linux,2.3,31808,1920,1080,Standard,Full HD,Intel,Core,2.4,1024,0,HDD,Nvidia,GeForce
+Dell,Gaming,27.3,16,Windows 10,4.4,149130,2560,1440,IPS Panel,Standard,Intel,Core,2.9,256,1024,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,8,Windows 10,2.6,61751,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.0,60867,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+Dell,Ultrabook,14,8,Linux,1.6,58554,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+HP,Gaming,17.3,12,Windows 10,3.4,106506,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Mediacom,2 in 1 Convertible,11.6,4,Windows 10,1.2,15930,1920,1080,IPS Panel,Full HD,Intel,Celeron,1.1,32,0,SSD,Intel,HD
+Samsung,Netbook,11.6,4,Chrome OS,1.2,14332,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+Lenovo,Notebook,13.3,8,Windows 10,1.4,53812,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,1.7,31914,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,128,0,SSD,Intel,HD
+Lenovo,Workstation,15.6,16,Windows 10,2.3,130269,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,16,Windows 10,2.5,130482,1920,1080,Standard,Full HD,Intel,Core,2.9,512,0,SSD,Nvidia,Quadro
+Asus,Gaming,17.3,8,Windows 10,3.2,90309,1920,1080,Standard,Full HD,AMD,Ryzen,3.2,256,1024,SSD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,2.1,18488,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Google,Ultrabook,12.3,16,Chrome OS,1.1,117162,2400,1600,Touchscreen,Standard,Intel,Core,1.3,512,0,SSD,Intel,HD
+Lenovo,Ultrabook,24,24,Windows 10,1.3,126912,2560,1440,Standard,Standard,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Linux,2.0,29783,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,8,Windows 10,2.8,27652,1600,900,Standard,Standard,AMD,A6-Series,2.5,1024,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.2,39906,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+Lenovo,Ultrabook,12.5,8,Windows 10,1.4,76137,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,18594,1920,1080,Standard,Full HD,Intel,Pentium,1.1,128,0,SSD,Intel,HD
+HP,Gaming,15.6,8,Windows 10,2.2,58554,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,14,8,Windows 10,1.6,62817,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Linux,2.4,23539,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Dell,Workstation,15.6,8,Windows 10,2.2,106187,1920,1080,Standard,Full HD,Intel,Xeon,3,64,1024,Flash,Nvidia,Quadro
+MSI,Gaming,15.6,8,Windows 10,2.2,54757,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Microsoft,Ultrabook,13.5,16,Windows 10 S,1.2,137941,2256,1504,Touchscreen,Standard,Intel,Core,2.5,512,0,SSD,Intel,Iris
+HP,Notebook,15.6,8,Windows 10,1.9,31381,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+Dell,Workstation,15.6,16,Windows 10,2.2,105228,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,Quadro
+HP,Workstation,15.6,8,Windows 10,2.3,81731,1920,1080,IPS Panel,Full HD,Intel,Core,2.9,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 10,1.6,71661,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.4,52161,1920,1080,Standard,Full HD,Intel,Core,1.8,128,1024,SSD,AMD,Radeon
+Dell,2 in 1 Convertible,11.6,4,Windows 10,1.5,25521,1366,768,Touchscreen,Standard,Intel,Pentium,1.6,500,0,HDD,Intel,HD
+Dell,Notebook,17.3,8,Windows 10,4.4,109010,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.3,52693,2256,1504,Touchscreen,Standard,Intel,Core,2.2,128,0,SSD,Intel,HD
+Microsoft,Ultrabook,33.5,8,Windows 10 S,1.2,95850,2256,1504,Touchscreen,Standard,Intel,Core,2.5,256,0,SSD,Intel,Iris
+HP,Notebook,17.3,8,Windows 10,2.5,34093,1600,900,Standard,Standard,Intel,Core,2,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,28984,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Nvidia,GeForce
+Acer,Netbook,11.6,4,Windows 10,1.4,23176,1366,768,Standard,Standard,Intel,Celeron,1.6,128,0,SSD,Intel,HD
+Asus,Notebook,15.6,8,Windows 10,2.4,39906,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Notebook,14,8,No OS,1.5,42570,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,Windows 10,2.7,111355,1920,1080,Standard,Full HD,Intel,Core,2.9,256,0,SSD,Nvidia,Quadro
+Asus,Notebook,15.6,4,Windows 10,2.0,16197,1366,768,Standard,Standard,Intel,Pentium,1.1,500,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,24988,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.0,40439,1920,1080,Standard,Full HD,Intel,Core,1.6,2048,0,HDD,AMD,Radeon
+HP,Gaming,17.3,12,Windows 10,3.8,90522,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Ultrabook,14,12,Windows 10,1.4,98994,2560,1440,IPS Panel,Quad HD+,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.3,106506,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+HP,Notebook,15.6,8,Windows 10,1.9,61485,1920,1080,Standard,Full HD,Intel,Core,2.5,500,0,HDD,AMD,FirePro
+Google,Ultrabook,12.3,8,Chrome OS,1.1,67932,2400,1600,Touchscreen,Standard,Intel,Core,1.2,128,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.4,98133,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Asus,Notebook,15.6,12,Windows 10,2.1,69210,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.6,128,1024,SSD,Intel,HD
+Dell,Notebook,14,8,Windows 10,1.8,39427,1366,768,Standard,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Dell,Workstation,,8,Windows 10,1.8,128298,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Lenovo,Notebook,14,8,Windows 10,1.7,72673,1920,1080,Standard,Full HD,Intel,Core,2.5,180,0,SSD,Intel,HD
+Toshiba,Notebook,13.3,8,Windows 10,1.0,89084,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,67239,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,512,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,31254,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+HP,Notebook,13.3,4,Windows 10,1.5,38681,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,128,0,SSD,Intel,UHD
+Chuwi,Notebook,15.6,4,Windows 10,1.9,13261,1920,1080,Standard,Full HD,Intel,Atom,1.44,64,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.3,30103,1366,768,Standard,Standard,Intel,Core,2.0,128,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 10,1.8,55890,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Dell,Workstation,15.6,16,Windows 10,2.2,124568,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Nvidia,Quadro
+Dell,Notebook,15.6,16,Windows 10,2.1,101178,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,12.5,16,Windows 10,1.4,95797,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Ultrabook,12.5,16,Windows 10,0.9,103896,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,53918,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Toshiba,Ultrabook,13.3,32,Windows 10,1.0,149130,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.0,71928,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,8,Windows 10,2.2,30849,1366,768,Standard,Standard,AMD,A10-Series,2.5,1024,0,HDD,AMD,Radeon
+Asus,Gaming,17.3,24,Windows 10,4.3,67612,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,58554,1366,768,IPS Panel,Standard,Intel,Core,2.3,180,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.2,47893,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,Intel,UHD
+HP,Notebook,14,8,Windows 10,1.5,93186,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,SSD,Intel,HD
+Lenovo,Notebook,13.3,8,Windows 10,1.4,50562,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,48538,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Netbook,11.6,4,Windows 10 S,1.2,18115,1366,768,Standard,Standard,Intel,Celeron,1.1,64,0,Flash,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.9,32979,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,85194,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Notebook,14,4,Windows 10,2.1,15930,1366,768,Standard,Standard,Intel,Celeron,1.1,500,0,HDD,Intel,HD
+Lenovo,Netbook,11.6,4,Chrome OS,1.2,14119,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,SSD,Intel,HD
+Lenovo,Notebook,13.3,8,Windows 10,1.4,50562,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Notebook,15.6,8,Windows 10,2.0,65214,1920,1080,Standard,Full HD,Intel,Core,2.7,256,1024,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,32660,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,1024,0,HDD,Nvidia,GeForce
+HP,Ultrabook,13.3,8,Windows 10,1.3,70489,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Gaming,15.6,8,No OS,2.4,61218,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.3,47898,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,34045,1920,1080,Standard,Full HD,Intel,Core,2.7,500,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.2,44542,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,16,Windows 10,2.2,64961,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+Xiaomi,Notebook,15.6,16,No OS,2.0,74589,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,256,0,SSD,Nvidia,GeForce
+Asus,Netbook,11.6,2,Windows 10,1.1,13053,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.0,27783,1366,768,Touchscreen,Standard,Intel,Core,1.6,1024,0,HDD,Intel,UHD
+Asus,Gaming,15.6,24,Windows 10,2.2,158135,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,47365,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,3.0,80133,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,8,Windows 10,3.2,74538,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,13.3,8,Windows 10,1.3,74538,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,14,8,Windows 10,1.6,68184,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.6,36709,1366,768,Standard,Standard,Intel,Core,2,128,0,SSD,Intel,HD
+Dell,Notebook,17.3,8,Linux,2.8,47365,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,128,1024,SSD,AMD,Radeon
+Lenovo,Notebook,24,8,Windows 7,2.0,71395,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,42570,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,24455,1366,768,Standard,Standard,Intel,Core,2,2048,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.3,31168,1920,1080,Standard,Full HD,Intel,Core,2.5,500,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,8,Windows 10,1.9,73366,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Dell,Gaming,17.3,16,Windows 10,4.4,160520,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,8,Windows 10,2.0,45820,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,500,0,HDD,Intel,HD
+Asus,Notebook,15.6,8,Windows 10,2.0,69210,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.7,256,1024,SSD,Nvidia,GeForce
+Mediacom,Notebook,13.3,4,Windows 10,1.2,19660,1920,1080,IPS Panel,Full HD,Intel,Celeron,1.1,32,0,SSD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.3,87858,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,1.9,72940,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.2,42486,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,1.9,21258,1920,1080,Standard,Full HD,Intel,Pentium,1.6,256,0,SSD,Intel,HD
+HP,Gaming,17.3,12,Windows 10,2.6,95850,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.9,45767,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,74538,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.8,256,0,SSD,Intel,UHD
+Dell,Notebook,14,4,Windows 10,1.6,39207,1920,1080,Standard,Full HD,Intel,Core,2,128,0,SSD,Intel,HD
+HP,Ultrabook,13.3,8,Windows 10,1.3,61005,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,Gaming,15.6,8,Linux,2.4,42517,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Windows 10,2.0,18594,1366,768,Standard,Standard,AMD,E-Series,1.8,500,0,HDD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,2.1,37589,1920,1080,Standard,Full HD,Intel,Core,2.4,128,0,SSD,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,1.9,41824,1920,1080,Standard,Full HD,Intel,Core,2.5,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,2.2,24634,1920,1080,Standard,Full HD,Intel,Core,2.3,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.9,21152,1920,1080,Standard,Full HD,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.0,92121,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,26586,1920,1080,Standard,Full HD,Intel,Core,2,128,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,1.9,59513,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Gaming,17.3,16,Windows 10,4.4,143802,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Notebook,17.3,8,Windows 10,2.6,28992,1600,900,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+HP,Notebook,17.3,8,Windows 10,2.6,68198,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Linux,2.0,11934,1366,768,Standard,Standard,Intel,Celeron,1.1,500,0,HDD,Intel,HD
+Mediacom,Notebook,13.3,4,Windows 10,1.4,13586,1920,1080,IPS Panel,Full HD,Intel,Atom,1.44,32,0,Flash,Intel,HD
+Lenovo,Notebook,17.3,6,Windows 10,2.8,50562,1600,900,Standard,Standard,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,6,Windows 10,1.9,30310,1920,1080,IPS Panel,Full HD,AMD,A10-Series,2.5,128,0,SSD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.2,32921,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,AMD,Radeon
+Acer,2 in 1 Convertible,11.6,4,Windows 10,1.2,18594,1920,1080,IPS Panel,Full HD,Intel,Celeron,2.0,32,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.0,33566,1920,1080,Standard,Full HD,Intel,Core,2.7,128,0,SSD,Intel,HD
+HP,Ultrabook,13.3,16,Windows 10,1.2,104695,3200,1800,IPS Panel,Quad HD+,Intel,Core,1.2,512,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,8,Windows 10,3.4,159786,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Asus,Notebook,15.6,8,Windows 10,2.5,44701,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,85194,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,1.6,128,0,SSD,Intel,UHD
+Dell,Notebook,15.6,4,Windows 10,1.9,51095,1366,768,Standard,Standard,Intel,Core,2.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,18328,1920,1080,Standard,Full HD,Intel,Pentium,1.1,500,0,HDD,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,2.0,52747,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+HP,Workstation,17.3,8,Windows 10,3.1,99153,1600,900,Standard,Standard,Intel,Core,2.8,500,0,HDD,Nvidia,Quadro
+HP,Notebook,14,8,Windows 10,1.9,20725,1366,768,Standard,Standard,Intel,Pentium,1.6,2048,0,HDD,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.0,34578,1920,1080,IPS Panel,Full HD,AMD,A9-Series,3,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,Windows 10,2.3,44222,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.0,36496,1920,1080,Standard,Full HD,Intel,Core,1.6,500,0,HDD,Intel,HD
+Mediacom,Notebook,14,4,Windows 10,1.4,13266,1920,1080,Standard,Full HD,Intel,Atom,1.44,32,0,SSD,Intel,HD
+Toshiba,Ultrabook,14,16,Windows 10,1.2,99367,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Gaming,17.3,32,Windows 10,4.6,141884,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,1024,SSD,Nvidia,GeForce
+MSI,Gaming,17.3,16,Windows 10,4.1,145401,1920,1080,Standard,Full HD,Intel,Core,2.9,512,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Linux,2.2,39907,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+Mediacom,Notebook,14,4,Windows 10,1.4,20725,1920,1080,IPS Panel,Full HD,Intel,Celeron,1.1,32,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,1.9,53733,1366,768,Standard,Standard,Intel,Core,2.6,500,0,HDD,Intel,HD
+HP,Notebook,13.3,4,Windows 10,1.5,38308,1920,1080,Standard,Full HD,Intel,Core,2.4,128,0,SSD,Intel,HD
+Dell,Notebook,15.6,16,Windows 10,1.9,81912,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Dell,Netbook,11.6,4,Chrome OS,1.3,15717,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,4.5,125154,1920,1080,Standard,Full HD,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+HP,Gaming,17.3,16,Windows 10,3.8,79813,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,14,12,Windows 10,8.4,89137,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,12,Windows 10,2.2,32447,1366,768,Touchscreen,Standard,Intel,Core,1.8,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,2.7,94305,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,39373,1366,768,Touchscreen,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,12,Windows 10,2.2,50562,1920,1080,Standard,Full HD,AMD,A12-Series,3.6,512,0,SSD,AMD,Radeon
+Dell,2 in 1 Convertible,31.6,4,Windows 10,1.4,32127,1366,768,Touchscreen,Standard,Intel,Core,1.0,128,0,SSD,Intel,HD
+Samsung,Notebook,15.6,16,Windows 10,2.5,90522,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,17.3,4,No OS,2.8,28185,1920,1080,Standard,Full HD,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,24455,1366,768,Standard,Standard,Intel,Core,2.3,1024,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,107892,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 10,1.7,78534,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,2 in 1 Convertible,12.5,8,Windows 10,1.3,88977,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Workstation,15.6,8,Windows 10,2.1,93932,1920,1080,Touchscreen,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+HP,Notebook,15.6,8,Windows 10,1.8,64948,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,35616,1366,768,Standard,Standard,Intel,Core,2.4,500,0,HDD,Intel,HD
+Acer,Notebook,14,4,Windows 10,1.6,17529,1920,1080,Standard,Full HD,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,4.1,117162,1920,1080,Standard,Full HD,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Linux,2.2,24775,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,AMD,Radeon
+MSI,Gaming,15.6,16,Windows 10,1.8,122490,3840,2160,Standard,4K Ultra HD,Intel,Core,2.8,256,2048,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,8,Windows 10,2.2,74538,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,6,Windows 10,2.4,30049,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,69210,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Acer,Notebook,14,4,Windows 10,1.6,18594,1366,768,Standard,Standard,Intel,Pentium,1.6,128,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,32,Windows 10,2.5,261018,3840,2160,IPS Panel,4K Ultra HD,Intel,Xeon,3.1,1024,0,SSD,Nvidia,Quadro
+Dell,Gaming,15.6,16,Windows 10,2.6,46833,1920,1080,Standard,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Linux,2.2,23650,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.2,19127,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,4,Linux,1.9,46300,1366,768,Standard,Standard,Intel,Core,2.6,500,0,HDD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,3.0,62231,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,15.6,8,Windows 10,1.8,74005,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+MSI,Gaming,15.6,16,Windows 10,2.9,120831,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.2,20193,1366,768,IPS Panel,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+HP,Notebook,14,8,Windows 10,2.3,59886,1366,768,Standard,Standard,Intel,Core,2.6,256,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 7,1.6,78055,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,41345,1920,1080,Standard,Full HD,Intel,Core,1.6,1024,0,HDD,AMD,Radeon
+Fujitsu,Notebook,15.6,8,Windows 10,2.2,42570,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 7,1.9,49656,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Mediacom,Notebook,14,2,Windows 10,1.4,12733,1920,1080,Standard,Full HD,Intel,Atom,1.44,32,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,2.2,24935,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,34046,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Asus,Ultrabook,14,16,Windows 10,11.1,101232,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,2.6,78801,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,1.8,44169,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,30849,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,15.6,8,Windows 10,2.0,21258,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Asus,Notebook,15.6,8,Windows 10,2.0,48304,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,99580,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Notebook,14,2,Windows 10,1.4,13266,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,93635,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,16,Windows 10,2.1,127818,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.8,1024,0,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,8,Windows 10,2.5,59087,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,17,8,Windows 10,2.6,27753,1600,900,Standard,Standard,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+Lenovo,Ultrabook,14,16,Windows 10,1.1,130536,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Gaming,15.6,8,No OS,2.5,62284,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.4,23976,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,1.4,14598,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Acer,Ultrabook,14,8,Windows 10,1.8,48964,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,Graphics
+Razer,Gaming,14,16,Windows 10,2.0,138474,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Toshiba,Notebook,13.3,8,Windows 10,1.2,64628,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,12.5,8,Windows 10,1.4,84395,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,Gaming,17.3,32,Windows 10,3.8,149130,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Nvidia,GeForce
+Acer,Gaming,15.6,8,Linux,2.4,37775,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.2,77250,1920,1080,Standard,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+MSI,Gaming,15.6,8,Windows 10,2.2,63499,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,No OS,1.9,19441,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Toshiba,Notebook,15.6,8,Windows 10,2.0,56689,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,6.2,48964,1920,1080,Standard,Full HD,Intel,Core,1.8,256,0,SSD,AMD,Radeon
+Dell,Notebook,15.6,16,Windows 10,2.2,60472,1920,1080,Standard,Full HD,Intel,Core,1.8,256,2048,SSD,AMD,Radeon
+Lenovo,Gaming,15.6,8,Windows 10,3.3,63722,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Dell,Gaming,17.3,32,Windows 10,4.4,167691,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Dell,Notebook,14,8,Windows 10,1.6,65481,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,22324,1366,768,Standard,Standard,Intel,Celeron,1.1,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,28504,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.0,28717,1920,1080,Standard,Standard,Intel,Core,2,1024,0,HDD,AMD,Radeon
+MSI,Gaming,17.3,8,Windows 10,2.7,79215,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,4,Windows 10,2.1,26533,1366,768,Standard,Standard,Intel,Core,2.1,128,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.1,39693,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+Toshiba,Notebook,15.6,8,Windows 10,2.0,67026,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.1,21951,1366,768,Standard,Standard,Intel,Core,2,128,0,SSD,Intel,HD
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.3,99519,2256,1504,Touchscreen,Standard,Intel,Core,2.8,256,0,SSD,Intel,Iris
+Lenovo,Notebook,15.6,8,Windows 10,1.9,43580,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,55091,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,35.6,4,Windows 10,2.2,18594,1366,768,Standard,Standard,AMD,E-Series,2.2,128,0,SSD,AMD,Radeon
+HP,2 in 1 Convertible,14,4,Windows 10,1.6,37242,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,128,0,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,16,Windows 10,2.4,68944,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Asus,Ultrabook,14,8,Windows 10,1.1,60472,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,26373,1366,768,Touchscreen,Standard,Intel,Celeron,1.1,64,0,Flash,Intel,HD
+LG,Ultrabook,15.6,8,Windows 10,1.1,122490,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,512,0,SSD,Intel,HD
+Acer,Gaming,15.6,16,Windows 10,2.5,69210,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,8,Windows 10,2.2,53168,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Windows 10,1.9,22324,1366,768,Standard,Standard,Intel,Celeron,1.1,128,0,SSD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,3.2,109277,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,17.3,4,Windows 10,2.5,37242,1920,1080,IPS Panel,Full HD,Intel,Core,2,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.2,79866,1920,1080,IPS Panel,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Dell,Gaming,15.6,16,Windows 10,3.5,149916,1920,1080,Standard,Full HD,Intel,Core,2.9,256,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,1.9,32639,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,2.2,29073,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,AMD,Radeon
+HP,Notebook,17.3,6,Windows 10,2.6,30316,1920,1080,IPS Panel,Full HD,AMD,A10-Series,2.4,2048,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,4,Windows 10,2.1,16943,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Acer,Notebook,14,4,Chrome OS,1.4,19980,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Lenovo,Notebook,14,4,Windows 10,1.7,37242,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Workstation,17.3,8,Windows 10,3.1,101657,1920,1080,Standard,Full HD,Intel,Core,2.8,500,0,HDD,Nvidia,Quadro
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.4,137995,2560,1440,Touchscreen,Standard,Intel,Core,2.7,256,0,SSD,Intel,HD
+Toshiba,Notebook,13.3,8,Windows 10,1.5,51841,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Netbook,11.6,4,Windows 10,1.4,14332,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Lenovo,2 in 1 Convertible,14,16,Windows 10,1.4,93186,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,35644,1920,1080,Touchscreen,Full HD,Intel,Core,0.9,64,0,Flash,Intel,HD
+Toshiba,Ultrabook,13.3,16,Windows 10,1.4,100006,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,43636,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,2.2,21258,1920,1080,Standard,Full HD,AMD,A9-Series,2.9,256,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,Windows 10,2.2,22857,1366,768,Standard,Standard,AMD,A12-Series,3.6,1024,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,4,Windows 10,2.1,33110,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,1024,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,1.9,23976,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,42357,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,2 in 1 Convertible,13.3,1,Windows 10,1.6,53226,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,Intel,UHD
+Lenovo,Workstation,15.6,16,Windows 7,2.2,98834,1920,1080,Standard,Full HD,Intel,Core,2.5,512,0,SSD,Nvidia,Quadro
+Lenovo,Notebook,14,8,Windows 10,1.8,63456,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,17.3,6,Windows 10,2.7,34898,1920,1080,IPS Panel,Full HD,AMD,A10-Series,2.5,2048,0,HDD,AMD,Radeon
+Lenovo,Gaming,15.6,8,Windows 10,2.5,66546,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,14,8,Linux,1.6,58021,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Linux,2.0,38681,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Asus,Notebook,14,4,Windows 10,1.5,15877,1920,1080,Standard,Full HD,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Dell,Notebook,15.6,16,Windows 10,1.9,76012,1920,1080,Standard,Full HD,Intel,Core,2.6,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 10,1.9,45664,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,1.9,62817,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,15877,1366,768,Standard,Standard,AMD,A6-Series,2,500,0,HDD,AMD,Radeon
+Mediacom,Notebook,14,4,Windows 10,1.4,14119,1920,1200,IPS Panel,Full HD,Intel,Atom,1.92,32,0,HDD,Intel,HD
+HP,Notebook,17.3,8,Windows 10,2.6,63936,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,14,64,Windows 10,1.2,89864,2560,1440,IPS Panel,Quad HD+,Intel,Core,2.5,512,0,SSD,Intel,HD
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.6,44574,1366,768,IPS Panel,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.3,79866,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Gaming,17.3,32,Windows 10,4.4,194972,3840,2160,Standard,4K Ultra HD,Intel,Core,2.8,1024,1024,SSD,Nvidia,GeForce
+MSI,Gaming,17.3,8,Windows 10,2.7,71847,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,No OS,1.9,26101,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Dell,2 in 1 Convertible,13.3,4,Windows 10,1.7,34578,1920,1080,Touchscreen,Full HD,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Linux,2.3,31409,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+HP,Notebook,15.6,4,Windows 10,2.1,26053,1920,1080,Standard,Full HD,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+Acer,Gaming,17.3,16,Windows 10,4.2,103096,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,12,Windows 10,2.2,34578,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.1,34632,1920,1080,Standard,Full HD,AMD,A9-Series,3,128,1024,SSD,AMD,Radeon
+Acer,Notebook,15.6,4,Windows 10,2.4,29783,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Lenovo,Notebook,13.3,8,Windows 10,1.4,51148,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,1.8,41505,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Intel,HD
+HP,Workstation,15.6,16,Windows 10,2.6,128884,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,35111,1920,1080,Touchscreen,Full HD,Intel,Core,1.6,1024,0,HDD,Intel,UHD
+MSI,Gaming,15.6,16,Windows 10,1.8,111593,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.4,21887,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,64308,1920,1080,Standard,Full HD,Intel,Core,2.7,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.0,35431,1366,768,Standard,Standard,Intel,Core,2,256,0,SSD,Intel,HD
+Toshiba,Notebook,14,8,Windows 10,1.2,81784,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.7,53226,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Workstation,15.6,16,Windows 10,2.5,175770,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,1024,0,SSD,Nvidia,Quadro
+Acer,Notebook,14,2,Chrome OS,1.7,17582,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Samsung,Ultrabook,13.3,16,Windows 10,0.8,87858,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,14,8,Windows 10,1.6,60031,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Workstation,17.3,16,Windows 7,3.0,233845,1920,1080,IPS Panel,Full HD,Intel,Xeon,2.9,256,0,SSD,Nvidia,Quadro
+Lenovo,Netbook,11.6,4,Windows 10,1.4,25308,1366,768,Touchscreen,Standard,Intel,Celeron,1.6,128,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.8,101232,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,No OS,2.4,30849,1366,768,Standard,Standard,Intel,Core,2.3,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,15.6,4,Windows 10,2.4,45282,1366,768,Standard,Standard,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,63882,3200,1800,IPS Panel,Quad HD+,Intel,Core,1.8,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.2,58554,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Workstation,15.6,8,Windows 7,2.6,83170,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Nvidia,Quadro
+Dell,Gaming,15.6,16,Windows 10,4.4,152859,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,31914,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Gaming,15.6,8,Windows 10,2.5,55837,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,12.5,16,Windows 10,1.2,99047,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Google,Ultrabook,12.3,8,Chrome OS,1.1,83063,2400,1600,Touchscreen,Standard,Intel,Core,1.2,256,0,SSD,Intel,HD
+Asus,Ultrabook,13.3,8,Windows 10,1.2,60153,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,13.3,4,Windows 10,1.6,45234,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Acer,Notebook,13.3,4,Windows 10,1.6,34898,1366,768,Standard,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Asus,Notebook,17.3,4,Windows 10,2.8,25059,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Nvidia,GeForce
+Dell,Gaming,15.6,16,Windows 10,2.7,58554,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Samsung,Ultrabook,13.3,8,Windows 10,1.3,85194,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.1,15877,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+Samsung,2 in 1 Convertible,15,16,Windows 10,1.7,95850,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+Toshiba,Notebook,14,4,Windows 10,1.8,54345,1366,768,IPS Panel,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,58554,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,44701,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,2048,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,16,Windows 7,2.5,126273,3840,2160,Standard,4K Ultra HD,Intel,Core,2.7,512,0,SSD,Nvidia,Quadro
+Acer,Notebook,14,4,Windows 10,1.8,33886,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,128,0,SSD,Intel,HD
+Razer,Gaming,14,16,Windows 10,2.0,154458,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,8,Windows 10,2.0,31003,1920,1080,Standard,Standard,Intel,Pentium,1.1,128,0,SSD,Intel,HD
+Dell,Gaming,17.3,32,Windows 10,4.4,191211,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,1024,SSD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,4.3,125208,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Toshiba,Ultrabook,14,16,Windows 10,1.5,93985,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,512,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.2,17529,1366,768,Standard,Standard,Intel,Celeron,1.6,1024,0,HDD,Intel,HD
+Lenovo,Ultrabook,14,16,Windows 10,1.7,122490,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+MSI,Gaming,14,16,Windows 10,1.6,100752,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,8,Windows 10,2.2,58021,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,4,Windows 10,2.4,53226,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Acer,Gaming,17.3,16,Windows 10,4.2,122490,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,8,Windows 10,2.6,52480,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Asus,Gaming,15.6,8,Windows 10,2.2,71341,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Vero,Notebook,14,4,Windows 10,1.2,10810,1920,1080,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,104961,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.1,51095,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Apple,Ultrabook,12,8,Mac OS X,0.9,62071,2304,1440,IPS Panel,Retina Display,Intel,Core,1.2,512,0,Flash,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.4,124142,2560,1440,IPS Panel,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Notebook,14,4,Windows 10,1.6,15930,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,43156,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,71874,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,39373,1920,1080,Standard,Full HD,Intel,Core,2,256,0,SSD,AMD,Radeon
+HP,Workstation,15.6,8,Windows 10,3.1,110017,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,Quadro
+Asus,Notebook,15.6,8,Windows 10,2.4,58554,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.3,79866,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.1,93186,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Dell,Netbook,11.6,4,Windows 10,1.6,39640,1366,768,Standard,Standard,Intel,Pentium,1.1,128,0,SSD,Intel,HD
+HP,Netbook,12.5,8,Windows 10,1.3,74005,1366,768,Standard,Standard,Intel,Core,2.6,256,0,SSD,Intel,HD
+Toshiba,Notebook,15.6,4,Windows 10,2.1,41558,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.0,33513,1366,768,Standard,Standard,AMD,A12-Series,2.5,2048,0,HDD,AMD,Radeon
+Dell,Gaming,15.6,16,Windows 10,2.6,89457,3840,2160,Standard,4K Ultra HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,2.4,32447,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+HP,Gaming,17.3,12,Windows 10,3.7,93186,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,AMD,Radeon
+MSI,Gaming,17.3,16,Windows 10,2.9,128671,1920,1080,Standard,Full HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Samsung,Ultrabook,13.3,8,Windows 10,0.8,79866,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.0,51202,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.2,42081,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Lenovo,Ultrabook,14,8,Windows 10,1.3,99047,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Razer,Ultrabook,12.5,16,Windows 10,1.3,95850,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+HP,Netbook,11.6,4,Chrome OS,1.2,20512,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+Dell,Gaming,17.3,16,Windows 10,4.4,133467,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,14,4,Windows 10,1.8,40226,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.1,26101,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Toshiba,Ultrabook,14,4,Windows 10,1.2,58075,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.1,133146,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.4,63882,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,14,8,Windows 10,1.1,99900,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,Flash,Intel,HD
+Toshiba,Notebook,14,4,Windows 10,1.8,26586,1366,768,Standard,Standard,Intel,Pentium,2.1,128,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,72354,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,14,4,Windows 10,1.8,31168,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Acer,Netbook,11.6,4,Chrome OS,1.4,18914,1366,768,IPS Panel,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Acer,Notebook,14,8,Windows 10,1.5,32980,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,128,0,SSD,Intel,HD
+Razer,Gaming,17.3,32,Windows 10,3.5,292986,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.9,512,0,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,14,16,Windows 10,1.1,111834,2560,1440,IPS Panel,Quad HD+,Intel,Core,2.6,512,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Linux,2.1,27652,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.7,63190,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,Notebook,14,8,Windows 10,1.3,87912,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,3.2,147832,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,2.9,128884,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Toshiba,Notebook,15.6,4,Windows 10,2.0,35644,1366,768,Standard,Standard,Intel,Core,2.4,500,0,HDD,Intel,HD
+Lenovo,Notebook,14,4,Chrome OS,1.5,17316,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+Asus,Notebook,15.6,8,Windows 10,2.3,31435,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,HDD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,2.7,95850,1920,1080,Standard,Full HD,Intel,Core,2.6,512,1024,SSD,Nvidia,GeForce
+Dell,Gaming,17.3,32,Windows 10,4.4,163723,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+HP,Notebook,17.3,8,Windows 10,2.6,48484,1600,900,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.2,38041,1366,768,Standard,Standard,Intel,Core,2.5,128,0,SSD,Intel,HD
+HP,Ultrabook,14,8,Windows 7,1.5,99633,1920,1080,Standard,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,39373,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,AMD,Radeon
+HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,32767,1366,768,Touchscreen,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Asus,Ultrabook,13.3,8,Windows 10,1.4,54665,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,512,0,SSD,Nvidia,GeForce
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.3,121318,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Ultrabook,14,8,Windows 10,1.5,78215,1920,1080,Standard,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+HP,Notebook,15.6,4,No OS,1.9,15930,1366,768,Standard,Standard,Intel,Celeron,1.6,128,0,SSD,Intel,HD
+Asus,Gaming,15.6,16,Windows 10,2.1,101178,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,17.3,8,Linux,2.8,46087,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+Lenovo,Ultrabook,14,8,Windows 10,2.0,101391,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,0,SSD,Nvidia,GeForce
+Asus,Notebook,15.6,8,Windows 10,2.3,41931,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,1.9,50349,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,23922,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.3,136343,1920,1080,Touchscreen,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Dell,Notebook,13.3,8,Windows 10,1.6,34578,1920,1080,Touchscreen,Full HD,Intel,Core,2.3,1024,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,2.2,24988,1920,1080,Standard,Full HD,Intel,Core,2.0,1024,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,45323,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.8,71874,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,AMD,Radeon
+Toshiba,Notebook,13.3,4,Windows 10,1.0,68464,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,Gaming,15.6,8,No OS,2.5,54185,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Ultrabook,13.3,16,Windows 10,1.3,119347,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.5,512,0,SSD,Intel,Iris
+HP,Notebook,15.6,4,Windows 10,2.1,48484,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,58341,1366,768,Standard,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,103896,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,Notebook,14,8,Windows 10,1.6,48058,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Workstation,15.6,8,Windows 10,2.2,94731,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,Quadro
+Lenovo,Notebook,15.6,4,Windows 10,2.4,56210,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,2.2,25521,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,AMD,Radeon
+Toshiba,Notebook,15.6,8,Windows 10,2.0,73952,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,Notebook,13.3,4,Windows 10,1.4,39160,1920,1080,IPS Panel,Full HD,Intel,Core,2.4,180,0,SSD,Intel,HD
+Samsung,Ultrabook,15,16,Windows 10,1.2,98514,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,12.5,8,Windows 10,1.6,90043,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Asus,Notebook,15.6,4,Linux,2.0,21258,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+Xiaomi,Ultrabook,13.3,8,Windows 10,1.3,49816,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,48618,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,2.0,44701,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.3,90576,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,36486,1366,768,Touchscreen,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Asus,Notebook,14.1,4,Windows 10,1.6,18541,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.2,35644,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,19660,1366,768,Standard,Standard,Intel,Pentium,1.6,500,0,HDD,Intel,HD
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.3,95850,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.2,24279,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,AMD,Radeon
+Asus,Gaming,17.3,12,Windows 10,2.2,72988,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Acer,Netbook,11.6,4,Chrome OS,1.2,15824,1366,768,IPS Panel,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Lenovo,Notebook,17.3,4,Windows 10,2.8,20193,1600,900,Standard,Standard,AMD,A4-Series,2.2,500,0,HDD,AMD,Radeon
+HP,Notebook,14,4,Windows 10,2.0,67399,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.4,74538,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.7,256,0,SSD,Intel,HD
+Samsung,Ultrabook,15,8,Windows 10,1.2,90522,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.3,95850,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.4,141138,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.6,512,2048,SSD,Nvidia,GeForce
+Toshiba,Notebook,13.3,8,Windows 10,1.0,78588,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Gaming,15.6,8,Linux,2.6,49497,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,47952,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,32713,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,8,Windows 10,1.9,49816,1920,1080,Standard,Full HD,Intel,Core,2.6,500,0,HDD,Intel,HD
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.2,107257,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.3,512,0,SSD,Intel,HD
+Asus,Gaming,17.3,32,Windows 10,3.6,68145,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,256,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.2,87858,1920,1080,Touchscreen,Full HD,Intel,Core,1.3,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.1,109170,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.0,104588,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+LG,Ultrabook,15.6,16,Windows 10,1.1,111834,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+HP,Netbook,12.5,8,Windows 10,1.3,79014,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Chrome OS,2.2,19127,1920,1080,IPS Panel,Full HD,Intel,Celeron,1.5,16,0,Flash,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.6,42037,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,128,1024,SSD,Nvidia,GeForce
+LG,Ultrabook,14,8,Windows 10,1.0,101178,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Dell,Notebook,14,8,Windows 10,1.6,64202,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+HP,Ultrabook,12.5,8,Windows 10,1.1,165168,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,1.2,240,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,6,Windows 10,2.2,42037,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,54291,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.4,26586,1920,1080,Standard,Full HD,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Lenovo,Notebook,13.3,4,Windows 10,1.4,46939,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+HP,Notebook,13.3,8,Windows 10,1.5,51148,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.7,85194,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Gaming,15.6,16,Windows 10,2.6,71874,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,8,Windows 10,2.2,59668,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,36496,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+HP,Ultrabook,15.6,8,Windows 10,1.8,69103,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.4,97236,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.0,38889,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,Ultrabook,12.5,8,Windows 10,1.4,87912,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.3,62071,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,37725,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+HP,Notebook,14,4,Windows 10,2.0,61218,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,16463,1366,768,Standard,Standard,Intel,Pentium,1.1,1024,0,HDD,Intel,HD
+HP,Ultrabook,12.5,4,Windows 10,1.3,84129,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,No OS,1.9,15392,1366,768,Standard,Standard,Intel,Celeron,1.6,1024,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,95850,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.2,1024,0,SSD,Intel,Iris
+Toshiba,Notebook,14,4,Windows 10,1.5,58874,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,128,0,SSD,Intel,HD
+HP,Netbook,12.5,8,Windows 10,1.3,88924,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,29762,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.2,63882,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Gaming,17.3,16,Windows 10,4.4,146946,2560,1440,Standard,Standard,Intel,Core,2.7,512,1024,SSD,Nvidia,GeForce
+HP,Gaming,17.3,8,Windows 10,2.8,74538,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,128,1024,SSD,Nvidia,GeForce
+Asus,Notebook,17.3,4,Windows 10,2.8,28238,1600,900,Standard,Standard,Intel,Pentium,1.6,1024,0,HDD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.2,32980,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Toshiba,Notebook,15.6,8,Windows 10,2.2,59620,1366,768,Standard,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,69210,1920,1080,IPS Panel,Full HD,Intel,Core,1.2,256,0,SSD,Intel,HD
+Lenovo,Gaming,15.6,16,Windows 10,2.5,53226,1920,1080,IPS Panel,Full HD,AMD,FX,2.1,512,1024,SSD,AMD,Radeon
+Dell,Ultrabook,12.5,8,Windows 10,1.4,78438,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,No OS,2.2,36496,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,17.3,4,Windows 10,2.4,35111,1600,900,Standard,Standard,Intel,Core,2.0,1024,0,HDD,AMD,Radeon
+Acer,Notebook,14,4,Chrome OS,1.7,18594,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+HP,Workstation,15.6,8,Windows 10,2.0,119826,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,8,0,SSD,Nvidia,Quadro
+Dell,Ultrabook,14,8,Windows 10,1.4,94572,1920,1080,Standard,Full HD,Intel,Core,2.8,256,0,SSD,Intel,HD
+Toshiba,Notebook,13.3,8,Windows 7,1.2,77788,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,61751,1920,1080,Standard,Full HD,Intel,Core,1.2,64,0,Flash,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 10,1.7,79333,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Dell,Gaming,17.3,16,Windows 10,4.4,168045,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.8,512,1024,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.2,101178,1920,1080,Touchscreen,Full HD,Intel,Core,1.2,256,0,SSD,Intel,HD
+HP,2 in 1 Convertible,11.6,4,Windows 10,1.4,41292,1366,768,Touchscreen,Standard,Intel,Pentium,1.1,256,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.3,67559,3200,1800,Standard,Quad HD+,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.2,20725,1366,768,IPS Panel,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Toshiba,Notebook,13.3,8,Windows 10,1.2,81784,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,12.5,8,Windows 10,1.4,93772,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,12,Windows 10,2.4,53759,1920,1080,Standard,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+Toshiba,Ultrabook,12.5,8,Windows 10,1.1,95371,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,2.0,45101,1366,768,Standard,Standard,Intel,Core,2.50,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Linux,2.2,24808,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Windows 10,1.9,43956,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.0,36496,1920,1080,Standard,Full HD,Intel,Core,2.4,500,0,HDD,Intel,HD
+Dell,Gaming,17.3,32,Windows 10,4.4,167778,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,6,Windows 10,2.4,37029,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.2,101178,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.3,512,0,SSD,Intel,HD
+Dell,Ultrabook,14,8,Windows 10,1.5,104587,2560,1440,Touchscreen,Standard,Intel,Core,2.6,256,0,SSD,Intel,HD
+Dell,Gaming,17.3,32,Windows 10,4.4,149184,1920,1080,Standard,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Toshiba,Notebook,14,8,Windows 10,2.0,62870,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,2.7,109218,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,52161,1920,1080,IPS Panel,Full HD,Intel,Core,2.70,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,14,4,Windows 7,1.7,53386,1366,768,Standard,Standard,Intel,Core,2.3,508,0,Hybrid,Intel,HD
+Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,95850,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.7,512,2048,SSD,Nvidia,GeForce
+Asus,Gaming,17.3,16,Windows 10,3.0,93186,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,15.6,12,Windows 10,2.2,69210,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Toshiba,Notebook,13.3,4,Windows 7,1.2,63669,1920,1080,Standard,Full HD,Intel,Core,2.3,128,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,6,Windows 10,2.2,29250,1920,1080,Standard,Full HD,AMD,A12-Series,3.6,256,0,SSD,AMD,Radeon
+Fujitsu,Notebook,15.6,4,Windows 10,2.3,34578,1366,768,Standard,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+Toshiba,Notebook,14,4,Windows 10,1.8,48751,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,31914,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,AMD,Radeon
+HP,Notebook,15.6,8,Windows 10,2.0,42943,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Gaming,15.6,8,Windows 10,2.5,63349,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.4,39906,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+Dell,Notebook,14,8,Windows 10,1.6,59620,1920,1080,Standard,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+HP,Netbook,12.5,8,Windows 10,1.0,101658,1920,1080,Standard,Full HD,Intel,Core,1.2,512,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,26586,1920,1080,Standard,Full HD,Intel,Core,2,128,1024,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,4,No OS,1.9,14418,1366,768,Standard,Standard,Intel,Celeron,1.1,128,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,71874,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Asus,Notebook,13.3,8,Windows 10,1.4,61272,3200,1800,Standard,Quad HD+,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Ultrabook,13.3,8,Windows 10,1.1,71874,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.4,20246,1366,768,Standard,Standard,Intel,Pentium,1.1,500,0,HDD,Intel,HD
+Asus,Gaming,15.6,16,Windows 10,2.5,95850,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,14,8,Windows 10,1.5,111301,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Acer,Gaming,15.6,8,Windows 10,2.7,67132,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,13.3,8,Windows 10,1.3,63349,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,29144,1366,768,Standard,Standard,Intel,Core,2.4,128,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,1.6,41505,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Toshiba,Notebook,13.3,4,Windows 10,1.2,63669,1920,1080,Standard,Full HD,Intel,Core,2.3,128,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,1.5,58607,1366,768,Standard,Standard,Intel,Core,2.4,256,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,2.0,64202,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Ultrabook,14,8,Windows 7,1.4,77202,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.6,55904,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+HP,Notebook,14,4,Windows 10,1.6,36443,1366,768,Standard,Standard,Intel,Core,2.4,500,0,HDD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,50562,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,Hybrid,Nvidia,GeForce
+HP,Ultrabook,12.5,4,Windows 10,1.3,81997,1920,1080,Standard,Full HD,Intel,Core,2.5,500,0,HDD,Intel,HD
+HP,Notebook,14,4,Windows 10,1.5,84715,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Ultrabook,14,8,Windows 10,1.5,100550,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,13.3,4,Windows 10,1.5,42624,1366,768,Standard,Standard,Intel,Core,2.4,500,0,HDD,Intel,HD
+Toshiba,Notebook,13.3,8,Windows 10,1.5,64468,1366,768,Standard,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.0,41025,1366,768,Standard,Standard,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,16,Windows 7,2.4,158135,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.7,512,0,SSD,Nvidia,Quadro
+Toshiba,Notebook,14,8,Windows 10,1.5,79387,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.4,118761,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,2 in 1 Convertible,15.6,4,Windows 10,2.1,42410,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,1024,0,HDD,Intel,HD
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,84715,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,13.3,8,Windows 10,1.1,61218,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.6,63159,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.1,55754,1920,1080,Standard,Full HD,Intel,Core,2.4,500,0,HDD,Intel,HD
+HP,Ultrabook,12.5,4,Windows 10,1.3,83063,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,2.3,63349,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+HP,Notebook,14,4,Windows 10,2.0,56476,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.3,86526,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,17.3,8,Windows 10,2.6,57542,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+HP,Notebook,14,4,Windows 10,1.6,51841,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,6,Windows 10,2.1,21791,1366,768,Standard,Standard,AMD,A9-Series,3,1024,0,HDD,AMD,Radeon
+MSI,Gaming,17.3,8,Windows 10,2.7,63499,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,14,8,Windows 7,2.0,63669,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.8,65480,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Ultrabook,12.5,8,Windows 10,1.3,71874,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.0,39533,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Toshiba,Ultrabook,14,8,Windows 10,1.5,91908,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 7,2.1,56633,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 10,1.6,53839,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,45128,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Vero,Notebook,14,2,Windows 10,1.4,11231,1366,768,Standard,Standard,Intel,Atom,1.44,32,0,Flash,Intel,HD
+Toshiba,Notebook,15.6,16,Windows 10,2.4,75924,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.3,55922,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 10,1.5,53280,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.8,112065,1920,1080,Standard,Full HD,Intel,Core,2.4,256,500,SSD,Intel,HD
+HP,Notebook,14,8,Windows 7,1.4,78268,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,3.8,82351,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,1024,SSD,Nvidia,GeForce
+Lenovo,Gaming,17.3,16,Windows 10,4.6,122010,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Asus,Netbook,11.6,4,Chrome OS,1.2,15339,1366,768,Standard,Standard,Intel,Celeron,1.6,16,0,Flash,Intel,HD
+Lenovo,Notebook,14,16,Windows 7,1.1,139593,2560,1440,IPS Panel,Standard,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Notebook,15.6,8,Windows 10,1.9,52161,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,58288,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.0,52161,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Ultrabook,13.3,16,Windows 10,1.2,120093,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.7,1024,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.3,37570,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,No OS,2.0,26586,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Acer,Notebook,15.6,8,Windows 10,2.4,23922,1366,768,Standard,Standard,AMD,A8-Series,2.2,1024,0,HDD,AMD,Radeon
+Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,69210,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+MSI,Gaming,15.6,16,Windows 10,2.9,96916,1920,1080,Standard,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Asus,Gaming,17.3,16,No OS,4.0,53173,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.2,29783,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Dell,Notebook,15.6,16,Windows 10,2.3,52746,1920,1080,Standard,Full HD,Intel,Core,2.7,2048,0,HDD,AMD,Radeon
+MSI,Gaming,15.6,16,Windows 10,1.8,102777,1920,1080,Standard,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Windows 10,1.3,77682,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Asus,Gaming,17.3,64,Windows 10,3.6,211788,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,42517,1920,1080,Touchscreen,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Gaming,15.6,16,Windows 10,3.2,70809,3840,2160,Standard,4K Ultra HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Apple,Ultrabook,12,8,Mac OS X,0.9,69264,2304,1440,IPS Panel,Retina Display,Intel,Core,1.1,256,0,Flash,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.1,25679,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.3,63882,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Ultrabook,12.5,8,Windows 7,1.3,63882,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,13.3,8,Windows 10,1.5,58075,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,91294,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,17.3,8,Windows 10,3.0,35111,1600,900,Standard,Standard,Intel,Core,2.3,1024,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,4,Windows 10,2.3,52054,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,1024,0,HDD,Nvidia,GeForce
+MSI,Gaming,17.3,16,Windows 10,3.8,133146,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,Windows 10,2.1,28771,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 7,2.3,50083,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,Ultrabook,12.5,8,Windows 10,1.0,74538,2560,1440,IPS Panel,Standard,Intel,Core,1.2,512,0,SSD,Intel,HD
+Lenovo,Gaming,17.3,32,Windows 10,4.6,172627,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,1024,SSD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.7,34433,1920,1200,IPS Panel,Standard,Intel,Atom,1.44,64,0,Flash,Intel,HD
+HP,Ultrabook,13.3,16,Windows 10,1.3,109170,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,39960,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,14,4,Windows 7,1.5,54931,1920,1080,Standard,Full HD,Intel,Core,2.3,500,0,HDD,Intel,HD
+HP,Workstation,15.6,8,Windows 7,1.9,79653,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,FirePro
+Lenovo,Notebook,14,8,Windows 7,1.7,63882,1920,1080,Standard,Full HD,Intel,Core,2.3,180,0,SSD,Intel,HD
+HP,Notebook,13.3,4,Chrome OS,1.3,32767,3200,1800,Standard,Quad HD+,Intel,Pentium,1.5,32,0,Flash,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.4,20619,1366,768,Standard,Standard,AMD,A8-Series,2.2,500,0,HDD,AMD,Radeon
+Dell,Notebook,15.6,4,Linux,2.2,20965,1366,768,Standard,Standard,Intel,Pentium,1.6,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,No OS,1.9,18434,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,2.7,85194,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,4,Windows 10,1.4,43601,1920,1080,IPS Panel,Full HD,Intel,Core,1.6,256,0,SSD,AMD,Radeon
+HP,Netbook,12.5,4,Windows 7,2.4,85194,1366,768,Standard,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Acer,Notebook,15.6,8,Windows 10,2.4,42570,1920,1080,Standard,Full HD,Intel,Core,2.5,256,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.4,34035,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+MSI,Gaming,17.3,8,Windows 10,2.6,85194,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,2.0,26640,1366,768,Standard,Standard,Intel,Pentium,1.6,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,4.3,122490,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Dell,Ultrabook,12.5,4,Windows 7,1.5,60480,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Dell,Ultrabook,12.5,4,Windows 7,1.5,62176,1366,768,Standard,Standard,Intel,Core,2.3,128,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Chrome OS,2.2,11135,1366,768,Standard,Standard,Intel,Celeron,1.5,16,0,SSD,Intel,HD
+HP,Workstation,17.3,8,Windows 7,3.0,154458,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,AMD,FirePro
+Lenovo,Gaming,15.6,16,Windows 10,2.4,63882,1920,1080,Standard,Full HD,Intel,Core,2.8,512,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,12.5,8,Windows 7,1.5,75289,1366,768,Standard,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+MSI,Gaming,17.3,8,Windows 10,2.9,80516,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,46193,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,21205,1920,1080,Standard,Full HD,AMD,A6-Series,2.5,1024,0,HDD,AMD,Radeon
+Asus,Gaming,15.6,16,Windows 10,2.6,71341,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,13.3,8,Windows 10,1.2,90522,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.1,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 7,2.2,40980,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,4,Windows 10,2.1,22857,1366,768,Standard,Standard,Intel,Core,2.0,128,0,SSD,Intel,HD
+HP,Ultrabook,13.3,8,Windows 10,1.2,104908,1920,1080,Standard,Full HD,Intel,Core,2.5,512,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.7,29250,1920,1200,IPS Panel,Standard,Intel,Atom,1.44,64,0,Flash,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.2,73473,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,Iris
+Lenovo,Gaming,17.3,16,Windows 10,4.6,146519,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,256,1024,SSD,Nvidia,GeForce
+Razer,Ultrabook,12.5,8,Windows 10,1.2,54825,3840,2160,Touchscreen,4K Ultra HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Toshiba,Ultrabook,13.3,16,Windows 10,1.0,118601,1920,1080,Standard,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Gaming,17.3,8,Windows 10,3.5,69929,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Vero,Notebook,13.3,4,Windows 10,1.4,10442,1920,1080,Standard,Full HD,Intel,Atom,1.44,32,0,Flash,Intel,HD
+HP,Notebook,13.3,8,Windows 10,1.2,90043,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+HP,Notebook,14,8,Windows 7,1.4,80612,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.1,27899,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,23176,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.8,88924,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.7,25521,1920,1200,IPS Panel,Standard,Intel,Atom,1.44,64,0,Flash,Intel,HD
+HP,Ultrabook,12.5,8,Windows 7,1.3,100965,1366,768,Standard,Standard,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Gaming,15.6,8,No OS,2.4,52693,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,1024,SSD,Nvidia,GeForce
+HP,Gaming,17.3,8,Windows 10,3.4,60153,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,33513,1366,768,Standard,Standard,Intel,Core,2.7,2048,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 7,1.8,109244,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,512,0,SSD,Nvidia,Quadro
+Asus,Notebook,14,4,Windows 10,1.5,14811,1366,768,Standard,Standard,Intel,Celeron,1.1,32,0,Flash,Intel,HD
+HP,Ultrabook,15.6,8,Windows 10,1.8,40066,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,32820,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,16,Windows 10,2.5,58554,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,Hybrid,AMD,Radeon
+HP,Workstation,17.3,8,Windows 7,3.0,210424,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Nvidia,Quadro
+Dell,Notebook,15.6,8,Windows 10,2.5,41771,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+MSI,Gaming,17.3,16,Windows 10,3.8,127818,1920,1080,Standard,Full HD,Intel,Core,2.7,256,1024,SSD,Nvidia,GeForce
+HP,Ultrabook,15.6,8,Windows 7,1.9,115709,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,14,16,Windows 10,2.8,130003,2560,1440,IPS Panel,Standard,Intel,Core,2.6,512,0,SSD,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.4,60888,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.5,86793,1920,1080,Touchscreen,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+HP,Workstation,15.6,8,Windows 7,2.6,118761,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Nvidia,Quadro
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.5,95850,2560,1440,Touchscreen,Standard,Intel,Core,2.6,256,0,SSD,Intel,HD
+HP,Workstation,15.6,8,Windows 7,2.0,101178,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Nvidia,Quadro
+HP,Ultrabook,12.5,8,Windows 7,1.3,122381,1920,1080,Standard,Full HD,Intel,Core,2.50,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,8,Windows 10,2.2,53807,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 7,1.9,84129,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.3,124621,2560,1440,IPS Panel,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,1.9,18061,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.9,15824,1366,768,Standard,Standard,AMD,E-Series,1.8,500,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,8,No OS,2.3,31914,1920,1080,Standard,Full HD,Intel,Core,2.3,1024,0,HDD,AMD,Radeon
+Dell,Gaming,15.6,8,Windows 10,2.6,63882,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.0,119916,3840,2160,IPS Panel,4K Ultra HD,Intel,Core,2.3,256,0,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,1.9,25515,1920,1080,Standard,Full HD,AMD,A6-Series,2.5,256,0,SSD,AMD,Radeon
+MSI,Gaming,17.3,16,Windows 10,2.7,79536,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Ultrabook,14,12,Windows 7,1.4,122490,1920,1080,Standard,Full HD,Intel,Core,2.6,512,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.5,42010,1920,1080,Standard,Full HD,Intel,Core,2.3,1024,0,Hybrid,AMD,Radeon
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.5,108744,2560,1440,Touchscreen,Standard,Intel,Core,2.6,512,0,SSD,Intel,HD
+Lenovo,Ultrabook,14,8,Windows 7,1.7,79866,1920,1080,Standard,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+MSI,Gaming,14,16,Windows 10,1.7,94252,1920,1080,Standard,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+HP,Gaming,15.6,8,Windows 10,2.6,47898,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.2,24455,1366,768,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Intel,HD
+HP,Notebook,15.6,4,No OS,2.1,25414,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Dell,Gaming,15.6,8,Windows 10,2.6,79813,3840,2160,Standard,4K Ultra HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,Windows 10,2.0,74059,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,24935,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,14,2,Windows 10,1.4,13266,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.2,44701,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,15.6,8,Windows 10,2.0,36177,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,15.6,16,Windows 10,2.1,61751,1920,1080,Standard,Full HD,Intel,Core,1.8,512,0,SSD,Intel,UHD
+Asus,Notebook,15.6,4,Windows 10,2.2,19660,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,4,No OS,2.1,21205,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,No OS,2.2,37775,1920,1080,Standard,Full HD,Intel,Core,2.7,1024,0,HDD,Nvidia,GeForce
+Asus,Notebook,14,4,Windows 10,2.0,40972,1920,1080,Standard,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 7,2.3,43956,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,Hybrid,Intel,HD
+Lenovo,Gaming,15.6,16,Windows 10,3.3,69530,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,512,0,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,16,Windows 10,1.9,114731,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,4,Windows 10,2.1,34632,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+Lenovo,2 in 1 Convertible,14,8,Windows 10,1.4,87219,2560,1440,IPS Panel,Standard,Intel,Core,2.3,256,0,SSD,Intel,HD
+Lenovo,Ultrabook,15.6,6,Windows 10,1.5,44275,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Linux,2.0,47686,1920,1080,Standard,Full HD,Intel,Core,2.7,256,0,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Windows 10,2.1,17742,1366,768,Standard,Standard,Intel,Celeron,2,500,0,HDD,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.2,42570,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+Asus,Gaming,15.6,8,Windows 10,2.6,48431,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,15.6,16,Windows 10,2.1,62817,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Windows 10,2.2,36816,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Nvidia,GeForce
+Dell,Ultrabook,13.3,8,Linux,1.2,58554,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.4,256,0,SSD,Intel,HD
+Acer,Gaming,17.3,16,Windows 10,4.2,138474,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Lenovo,Gaming,15.6,8,Windows 10,2.4,43636,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,1024,0,HDD,Nvidia,GeForce
+Samsung,2 in 1 Convertible,12.3,4,Chrome OS,1.2,35111,2400,1600,IPS Panel,Standard,Samsung,Cortex,2.0,32,0,Flash,ARM,Mali
+HP,Notebook,15.6,4,Windows 10,1.9,25840,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Apple,Ultrabook,12,8,Mac OS X,0.9,61964,2304,1440,IPS Panel,Retina Display,Intel,Core,1.1,256,0,Flash,Intel,HD
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,63882,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+HP,Notebook,15.6,12,Windows 10,2.2,70702,1920,1080,IPS Panel,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,4,No OS,1.9,19607,1366,768,Standard,Standard,Intel,Core,2,1024,0,HDD,AMD,Radeon
+Asus,Gaming,17.3,16,Windows 10,4.3,114552,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,512,1024,SSD,Nvidia,GeForce
+Acer,Notebook,15.6,4,Linux,2.1,14492,1366,768,Standard,Standard,Intel,Celeron,2,1024,0,HDD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.4,109165,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.3,26586,1366,768,Standard,Standard,Intel,Core,2.0,128,0,SSD,AMD,Radeon
+Lenovo,Notebook,15.6,8,No OS,2.2,33513,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Nvidia,GeForce
+Dell,Ultrabook,13.3,16,Windows 10,1.2,142790,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.7,512,0,SSD,Intel,HD
+Asus,Gaming,15.6,8,Windows 10,2.2,62284,1920,1080,Standard,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.4,47365,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,AMD,Radeon
+HP,Notebook,15.6,8,Windows 10,1.9,30849,1366,768,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,4,Windows 10,2.2,15930,1366,768,Standard,Standard,AMD,E-Series,2.2,500,0,HDD,AMD,Radeon
+Acer,Notebook,17.3,8,Windows 10,3.3,33513,1600,900,Standard,Standard,Intel,Core,2.0,1024,0,HDD,Nvidia,GeForce
+Asus,Gaming,15.6,16,Windows 10,2.2,130482,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Apple,Ultrabook,12,8,Mac OS X,0.9,68145,2304,1440,IPS Panel,Retina Display,Intel,Core,1.2,512,0,Flash,Intel,HD
+Asus,Notebook,15.6,16,Windows 10,2.2,93186,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+MSI,Gaming,17.3,16,Windows 10,2.4,103842,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.2,53226,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,2.9,103842,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Acer,Netbook,11.6,2,Chrome OS,1.3,9270,1366,768,Standard,Standard,Intel,Celeron,1.5,32,0,SSD,Intel,HD
+Acer,Notebook,17.3,4,Windows 10,3.3,31861,1600,900,Standard,Standard,Intel,Core,2,1024,0,HDD,Nvidia,GeForce
+Lenovo,Notebook,17.3,8,No OS,2.8,28717,1600,900,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Gaming,15.6,8,Windows 10,2.6,67772,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Acer,2 in 1 Convertible,14,8,Windows 10,1.2,61218,1920,1080,IPS Panel,Full HD,Intel,Core,1.3,256,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.3,81465,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,0,SSD,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.2,78647,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+HP,Notebook,15.6,6,Windows 10,2.1,28185,1920,1080,Standard,Full HD,AMD,A12-Series,2.7,1024,0,HDD,AMD,Radeon
+Dell,Ultrabook,12.5,8,Windows 7,1.3,91288,1920,1080,Touchscreen,Full HD,Intel,Core,2.4,256,0,SSD,Intel,HD
+Dell,2 in 1 Convertible,15,4,Windows 10,2.1,27119,1920,1080,Touchscreen,Full HD,Intel,Core,2.4,500,0,HDD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.6,16463,1366,768,Standard,Standard,Intel,Pentium,1.6,1024,0,HDD,Intel,HD
+Dell,Ultrabook,13.3,8,Windows 10,1.3,78694,3200,1800,Touchscreen,Quad HD+,Intel,Core,2.7,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.2,27804,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,Intel,HD
+Lenovo,Gaming,15.6,16,Windows 10,2.6,54825,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+MSI,Gaming,15.6,8,Windows 10,2.2,61218,1920,1080,Standard,Full HD,Intel,Core,2.8,128,1024,SSD,Nvidia,GeForce
+Lenovo,Netbook,12.5,16,Windows 10,1.3,87912,1920,1080,IPS Panel,Full HD,Intel,Core,2.50,512,0,SSD,Intel,HD
+Razer,Gaming,14,16,Windows 10,2.0,186426,1920,1080,Standard,Full HD,Intel,Core,2.8,1024,0,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,8,Windows 10,2.3,24988,1366,768,Touchscreen,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+MSI,Gaming,17.3,16,Windows 10,2.7,85141,1920,1080,Standard,Full HD,Intel,Core,2.8,256,1024,SSD,Nvidia,GeForce
+Apple,Ultrabook,11.6,4,Mac OS X,1.1,51095,1366,768,Standard,Standard,Intel,Core,1.6,256,0,Flash,Intel,HD
+HP,Notebook,15.6,4,Windows 10,2.1,25467,1920,1080,Standard,Full HD,Intel,Core,2,1024,0,HDD,Intel,HD
+HP,Ultrabook,14,8,Windows 7,1.5,117119,2560,1440,Standard,Standard,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 7,2.2,39267,1366,768,Standard,Standard,Intel,Core,2.3,500,0,HDD,Intel,HD
+MSI,Gaming,15.6,8,Windows 10,2.3,62284,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,13.3,16,Windows 10,1.4,79866,1920,1080,IPS Panel,Full HD,Intel,Core,2.7,512,0,SSD,Intel,HD
+Lenovo,Notebook,15.6,6,Windows 10,2.2,31838,1920,1080,Standard,Full HD,AMD,A12-Series,3.6,256,0,SSD,AMD,Radeon
+Asus,Ultrabook,13.3,8,Windows 10,1.4,68198,1920,1080,Standard,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.4,19276,1366,768,Standard,Standard,Intel,Core,2.0,500,0,HDD,Intel,HD
+Dell,2 in 1 Convertible,17.3,16,Windows 10,2.8,95850,1920,1080,Touchscreen,Full HD,Intel,Core,2.7,512,0,SSD,Nvidia,GeForce
+HP,Notebook,14,4,Windows 7,1.5,58607,1920,1080,Standard,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,14,4,Windows 10,1.6,46620,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Intel,HD
+Asus,Gaming,15.6,16,Windows 10,2.3,123876,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,256,1024,SSD,Nvidia,GeForce
+Lenovo,Notebook,15.6,8,No OS,2.3,30529,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,256,0,SSD,Intel,HD
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.2,96596,3200,1800,Touchscreen,Quad HD+,Intel,Core,1.2,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Linux,2.2,17262,1366,768,Standard,Standard,Intel,Pentium,1.6,500,0,HDD,Intel,HD
+HP,Notebook,15.6,4,Windows 10,1.9,21258,1366,768,Standard,Standard,AMD,A6-Series,2.5,500,0,HDD,AMD,Radeon
+Lenovo,Notebook,15.6,6,Windows 10,2.4,30316,1920,1080,Standard,Full HD,Intel,Core,2.3,128,0,SSD,Nvidia,GeForce
+Lenovo,Notebook,14,8,Windows 10,1.9,57116,1920,1080,IPS Panel,Full HD,Intel,Core,2.3,256,0,SSD,Intel,HD
+Dell,Notebook,15.6,4,Windows 10,2.2,23655,1366,768,Standard,Standard,Intel,Pentium,1.6,500,0,HDD,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.0,18061,1366,768,Standard,Standard,Intel,Celeron,1.1,1024,0,HDD,Intel,HD
+Asus,Gaming,17.3,16,Windows 10,4.0,101232,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Dell,Notebook,15.6,4,Windows 10,2.3,26107,1366,768,Standard,Standard,Intel,Core,2,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 7,2.3,47685,1920,1080,Standard,Full HD,Intel,Core,2.5,1024,0,Hybrid,AMD,Radeon
+MSI,Gaming,15.6,8,Windows 10,2.4,65481,1920,1080,Standard,Full HD,Intel,Core,2.6,128,1024,SSD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,14,4,Windows 10,1.8,44382,1920,1080,Touchscreen,Full HD,Intel,Core,2.3,128,0,SSD,Intel,HD
+Asus,Ultrabook,13.3,8,Windows 10,1.2,38841,1920,1080,IPS Panel,Full HD,Intel,Core,0.9,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,6,Windows 10,2.3,24455,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.4,15397,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,2,Windows 10,2.2,20193,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.6,47898,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,15.6,6,Windows 10,2.0,29303,1920,1080,Standard,Full HD,AMD,A9-Series,2.9,1024,0,Hybrid,AMD,Radeon
+Dell,Notebook,15.6,8,Linux,2.3,42943,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+HP,Netbook,11.6,2,Windows 10,1.2,11135,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.2,38378,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,14,4,Windows 10,1.8,33992,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,79866,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.5,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,2,Windows 10,1.5,12201,1366,768,Standard,Standard,Intel,Celeron,1.6,64,0,Flash,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.2,40705,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+Asus,Notebook,15.6,4,Windows 10,2.2,19660,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Asus,Ultrabook,13.3,8,Windows 10,1.2,38841,1920,1080,IPS Panel,Full HD,Intel,Core,0.9,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,6,Windows 10,2.3,24455,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.4,15397,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,2,Windows 10,2.2,20193,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.6,47898,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,15.6,6,Windows 10,2.0,29303,1920,1080,Standard,Full HD,AMD,A9-Series,2.9,1024,0,Hybrid,AMD,Radeon
+Dell,Notebook,15.6,8,Linux,2.3,42943,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+HP,Netbook,11.6,2,Windows 10,1.2,11135,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.2,38378,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,14,4,Windows 10,1.8,33992,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,79866,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.5,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,2,Windows 10,1.5,12201,1366,768,Standard,Standard,Intel,Celeron,1.6,64,0,Flash,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.2,40705,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+Asus,Notebook,15.6,4,Windows 10,2.2,19660,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Asus,Ultrabook,13.3,8,Windows 10,1.2,38841,1920,1080,IPS Panel,Full HD,Intel,Core,0.9,512,0,SSD,Intel,HD
+Dell,Notebook,15.6,6,Windows 10,2.3,24455,1366,768,Standard,Standard,Intel,Core,2.4,1024,0,HDD,Intel,HD
+Acer,Notebook,15.6,4,Linux,2.4,15397,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Dell,Notebook,15.6,2,Windows 10,2.2,20193,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
+Lenovo,Notebook,15.6,8,Windows 10,2.6,47898,1920,1080,IPS Panel,Full HD,Intel,Core,2.6,1024,0,HDD,Nvidia,GeForce
+HP,Notebook,15.6,6,Windows 10,2.0,29303,1920,1080,Standard,Full HD,AMD,A9-Series,2.9,1024,0,Hybrid,AMD,Radeon
+Dell,Notebook,15.6,8,Linux,2.3,42943,1366,768,Standard,Standard,Intel,Core,2.7,1024,0,HDD,AMD,Radeon
+HP,Netbook,11.6,2,Windows 10,1.2,11135,1366,768,Standard,Standard,Intel,Celeron,1.6,32,0,Flash,Intel,HD
+Asus,Notebook,15.6,4,Windows 10,2.2,38378,1366,768,Standard,Standard,Intel,Core,2.5,500,0,HDD,Nvidia,GeForce
+Lenovo,2 in 1 Convertible,14,4,Windows 10,1.8,33992,1920,1080,IPS Panel,Full HD,Intel,Core,2.5,128,0,SSD,Intel,HD
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,79866,3200,1800,IPS Panel,Quad HD+,Intel,Core,2.5,512,0,SSD,Intel,HD
+Lenovo,Notebook,14,2,Windows 10,1.5,12201,1366,768,Standard,Standard,Intel,Celeron,1.6,64,0,Flash,Intel,HD
+HP,Notebook,15.6,6,Windows 10,2.2,40705,1366,768,Standard,Standard,Intel,Core,2.5,1024,0,HDD,AMD,Radeon
+Asus,Notebook,15.6,4,Windows 10,2.2,19660,1366,768,Standard,Standard,Intel,Celeron,1.6,500,0,HDD,Intel,HD
