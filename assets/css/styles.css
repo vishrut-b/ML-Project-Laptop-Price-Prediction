@@ -1,0 +1,98 @@
+/* assets/css/styles.css */
+
+/* Apply Roboto font globally */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 2rem auto;    /* Add some breathing room */
+  max-width: 900px;     /* Limit the width for better readability */
+  padding: 1rem;        /* Add padding around the content */
+  line-height: 1.75;    /* Slightly increase line height for readability */
+  background-color: #fafafa; /* Light background color for a softer feel */
+  color: #333;          /* Standard dark color for text */
+}
+
+/* Styling for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;     /* Use bold weights for headings */
+  margin-top: 1.5rem;   /* Add spacing above headings */
+  margin-bottom: 0.75rem; /* Add spacing below headings */
+  color: #222;          /* Slightly darker color for headings */
+}
+
+/* Subtle underlining for <h1> to distinguish main title */
+h1 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+/* Add styles for links */
+a {
+  color: #007acc;       /* Blue links for visibility */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Add styles for tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  background-color: #fff; /* White background for contrast */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for aesthetics */
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px 12px;
+  text-align: left;
+  font-size: 0.9rem;    /* Slightly smaller font size for tables */
+}
+th {
+  background-color: #f4f4f4; /* Light gray background for table headers */
+  font-weight: 500;
+  text-transform: uppercase; /* Uppercase for headers */
+}
+
+/* Add styles for block quotes */
+blockquote {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-left: 4px solid #007acc;
+  background-color: #f9f9f9;
+  font-style: italic;
+  color: #555;
+}
+
+/* Add styles for lists */
+ul, ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem; /* Indent lists */
+}
+li {
+  margin-bottom: 0.5rem; /* Add spacing between list items */
+}
+
+/* Add styles for code blocks */
+pre, code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f4f4f4;
+  color: #d6336c;
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+pre {
+  overflow-x: auto; /* Enable horizontal scrolling for long code */
+  margin: 1.5rem 0;
+}
+
+/* Add a footer style */
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+}
