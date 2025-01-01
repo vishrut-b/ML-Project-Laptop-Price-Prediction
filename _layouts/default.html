@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- Roboto from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Include your custom CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
+  {% if site.kramdown.math_engine == 'mathjax' %}
+    <!-- Polyfill needed for older browsers -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Custom MathJax configuration -->
+    <script>
+      MathJax = {
+        loader: {
+          load: ['[tex]/newcommand', '[tex]/color']
+        },
+        tex: {
+          packages: {'[+]': ['newcommand', 'color']},
+          inlineMath: [['$','$'], ['\\(','\\)']],
+          displayMath: [['$$','$$'], ['\\[','\\]']],
+          macros: {
+            bold:   ['{\\bf #1}', 1],
+            ddfrac: ['{\\frac{\\displaystyle #1}{\\displaystyle #2}}', 2],
+            abs:    ['\\left\\lvert #2 \\right\\rvert_{\\text{#1}}', 2, ""],
+            floor:  ['\\left\\lfloor #2 \\right\\rfloor_{\\text{#1}}', 2, ""],
+            sfrac:  ['{ \\frac {\\ #1 \\ }{#2}}', 2],
+            lcm:    ['\\operatorname{lcm}#1', 1]
+          },
+          processEscapes: true,
+          processEnvironments: true,
+          processRefs: true,
+          digits: /^(?:[0-9]+(?:\\{,\\}[0-9]{3})*(?:\\.[0-9]*)?|\\.[0-9]+)/,
+          tags: 'ams',
+          tagSide: 'right',
+          tagIndent: '0.8em',
+          useLabelIds: true,
+          multlineWidth: '85%',
+        },
+        chtml: {
+          scale: 1.2
+        },
+        svg: {
+          scale: 1.3
+        }
+      };
+    </script>
+
+    <!-- Load MathJax from CDN -->
+    <script id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+    </script>
+  {% endif %}
+</head>
+<body>
+  <div class="main-container">
+    {{ content }}
+  </div>
+</body>
+</html>
