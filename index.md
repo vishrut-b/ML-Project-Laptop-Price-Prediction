@@ -7,23 +7,17 @@ This project aims to predict laptop prices based on various features extracted f
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
-  - [1. Importing Libraries](#1-importing-libraries)
-  - [2. Loading the Dataset](#2-loading-the-dataset)
-  - [3. Handling Missing Values](#3-handling-missing-values)
-  - [4. Cleaning Columns](#4-cleaning-columns)
-  - [5. Processing 'ScreenResolution' Column](#5-processing-screenresolution-column)
-  - [6. Processing 'Cpu' Column](#6-processing-cpu-column)
-  - [7. Processing 'Gpu' Column](#7-processing-gpu-column)
-  - [8. Processing 'Memory' Column](#8-processing-memory-column)
-  - [9. Final Dataset](#9-final-dataset)
+  - [1. Handling Missing Values](#1-handling-missing-values)
+  - [2. Cleaning Columns](#2-cleaning-columns)
+  - [3. Processing 'ScreenResolution' Column](#3-processing-screenresolution-column)
+  - [4. Processing 'Cpu' Column, 'Gpu' Column and 'Memory' Column](#4-processing-cpu-column-gpu-column-and-memory-column)
+  - [5. Final Dataset](#5-final-dataset)
 - [Modeling](#modeling)
-  - [1. Importing Libraries](#1-importing-libraries-1)
-  - [2. Loading the Processed Data](#2-loading-the-processed-data)
-  - [3. One-Hot Encoding](#3-one-hot-encoding)
-  - [4. Feature Selection](#4-feature-selection)
-  - [5. Data Visualization](#5-data-visualization)
-  - [6. Model Training](#6-model-training)
-  - [7. Model Evaluation](#7-model-evaluation)
+  - [1. One-Hot Encoding](#1-one-hot-encoding)
+  - [2. Feature Selection](#2-feature-selection)
+  - [3. Data Visualization](#3-data-visualization)
+  - [4. Model Training](#4-model-training)
+  - [5. Model Evaluation](#5-model-evaluation)
 - [Conclusion](#conclusion)
 - [How to Run](#how-to-run)
 
@@ -48,26 +42,9 @@ The dataset contains various specifications of laptops, including:
 
 ## Data Preprocessing
 
-### 1. Importing Libraries
+The raw data was cleaned and transformed to ensure it was suitable for machine learning. Key steps included:
 
-We start by importing the necessary Python libraries for data manipulation and analysis.
-
-```python
-import pandas as pd
-import numpy as np
-import re
-```
-
-### 2. Loading the Dataset
-
-Load the dataset from the CSV file into a Pandas DataFrame.
-
-```python
-data = 'path_to_your_dataset/laptopData.csv'
-dataset = pd.read_csv(data)
-```
-
-### 3. Handling Missing Values
+### 1. Handling Missing Values
 
 - **Checking for Missing Values**: We identify missing values in each column.
 
@@ -82,7 +59,7 @@ dataset = pd.read_csv(data)
   dataset.dropna(axis=0, inplace=True)
   ```
 
-### 4. Cleaning Columns
+### 2. Cleaning Columns
 
 - **Removing Units from 'Ram' and 'Weight' Columns**: We remove units to convert these columns into numerical data.
 
@@ -91,7 +68,7 @@ dataset = pd.read_csv(data)
   dataset['Weight'] = dataset['Weight'].str.replace("kg", "")
   ```
 
-### 5. Processing 'ScreenResolution' Column
+### 3. Processing 'ScreenResolution' Column
 
 - **Extracting Panel Type, Resolution, and Additional Features**:
 
@@ -118,7 +95,9 @@ dataset = pd.read_csv(data)
   dataset.drop(columns=['ScreenResolution', 'SimplifiedResolution'], inplace=True)
   ```
 
-### 6. Processing 'Cpu' Column
+### 4. Processing 'Cpu' Column, 'Gpu' Column and 'Memory' Column
+
+I give here the exemple for the processing of 'Cpu' Column.
 
 - **Extracting CPU Features**:
 
@@ -136,40 +115,7 @@ dataset = pd.read_csv(data)
   dataset.drop(columns=['Cpu'], inplace=True)
   ```
 
-### 7. Processing 'Gpu' Column
-
-- **Extracting GPU Features**:
-
-  ```python
-  dataset['Gpu Brand'] = dataset['Gpu'].apply(lambda x: x.split()[0])
-  dataset['Gpu Series'] = dataset['Gpu'].apply(lambda x: ' '.join(x.split()[1:]) if len(x.split()) > 1 else None)
-  dataset['Gpu Type'] = dataset['Gpu'].str.extract(r'\b(GeForce|Quadro|Iris|Radeon|FirePro|HD Graphics)\b', expand=False)
-  ```
-
-- **Dropping the Original 'Gpu' Column**:
-
-  ```python
-  dataset.drop(columns=['Gpu'], inplace=True)
-  ```
-
-### 8. Processing 'Memory' Column
-
-- **Extracting Storage Features**:
-
-  ```python
-  dataset['Main Storage Size'] = dataset['Memory'].str.extract(r'(\d+GB|\d+\.\d+TB)')
-  dataset['Main Storage Type'] = dataset['Memory'].str.extract(r'(\bSSD\b|\bHDD\b|Flash Storage|Hybrid)')
-  dataset['Additional Storage Size'] = dataset['Memory'].str.extract(r'\+ *(\d+GB|\d+\.\d+TB)')
-  dataset['Additional Storage Type'] = dataset['Memory'].str.extract(r'\+ *\d+GB|\d+\.\d+TB *(\bSSD\b|\bHDD\b|Flash Storage|Hybrid)')
-  ```
-
-- **Dropping the Original 'Memory' Column**:
-
-  ```python
-  dataset.drop(columns=['Memory'], inplace=True)
-  ```
-
-### 9. Final Dataset
+### 5. Final Dataset
 
 After handling missing values and cleaning the data, we finalize the dataset.
 
@@ -195,29 +141,17 @@ dataset.dropna(subset=['CPU Model Number', 'Gpu Type', 'Main Storage Type', 'Mai
 
 ## Modeling
 
-### 1. Importing Libraries
+For this project, I used python libraries including:
 
-We import necessary libraries for modeling.
+- numpy
+- pandas
+- matplotlib
+- torch
+- sklearn
+- seaborn
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import torch  # For potential future use
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-import seaborn as sns
-```
 
-### 2. Loading the Processed Data
-
-Load the cleaned dataset.
-
-```python
-df = pd.read_csv('edited_dataframe.csv')
-```
-
-### 3. One-Hot Encoding
+### 1. One-Hot Encoding
 
 - **Encoding Categorical Variables**:
 
@@ -241,26 +175,10 @@ df = pd.read_csv('edited_dataframe.csv')
   df.drop('Gpu Brand', axis=1, inplace=True)
   ```
 
-- **Encoding Other Categorical Features**:
+Other Categorical Features are encoded too like the Screen Panel Type, the Gpu and Cpu series, the main storage type, etc.
 
-  ```python
-  df = df.join(pd.get_dummies(df['Screen Panel Type']))
-  df.drop('Screen Panel Type', axis=1, inplace=True)
 
-  df = df.join(pd.get_dummies(df['Additional Screen Features'], prefix='ScreenFeature'))
-  df.drop('Additional Screen Features', axis=1, inplace=True)
-
-  df = df.join(pd.get_dummies(df['Gpu Series'], prefix='GPU_Series'))
-  df.drop('Gpu Series', axis=1, inplace=True)
-
-  df = df.join(pd.get_dummies(df['CPU Series'], prefix='CPU_Series'))
-  df.drop('CPU Series', axis=1, inplace=True)
-
-  df = df.join(pd.get_dummies(df['Main Storage Type']))
-  df.drop('Main Storage Type', axis=1, inplace=True)
-  ```
-
-### 4. Feature Selection
+### 2. Feature Selection
 
 - **Calculating Correlations**:
 
@@ -276,7 +194,7 @@ df = pd.read_csv('edited_dataframe.csv')
   selected_df = df[selected_features]
   ```
 
-### 5. Data Visualization
+### 3. Data Visualization
 
 - **Heatmap of Selected Features**:
 
@@ -286,7 +204,7 @@ df = pd.read_csv('edited_dataframe.csv')
   plt.show()
   ```
 
-### 6. Model Training
+### 4. Model Training
 
 - **Defining Features and Target Variable**:
 
@@ -318,7 +236,7 @@ df = pd.read_csv('edited_dataframe.csv')
   model.fit(X_train_scaled, y_train)
   ```
 
-### 7. Model Evaluation
+### 5. Model Evaluation
 
 - **Evaluating the Model**:
 
