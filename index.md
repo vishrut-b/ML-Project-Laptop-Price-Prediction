@@ -52,6 +52,7 @@ The raw data was cleaned and transformed to ensure it was suitable for machine l
   missing_values = dataset.isnull().sum()
   missing_percentage = dataset.isnull().mean() * 100
   ```
+  
 | **Feature**       | **Percentage of missing values per column** |
 |-------------------|---------------------------------------------|
 |Company            |2.302379                                     |
@@ -95,7 +96,9 @@ A little exploration of the df has revealed that indeed the missing values are a
 The "Screen Resolution" column contains noisy and inconsistent data. To organize it effectively, we can extract and categorize the key pieces of information:
 
 Panel Type: Examples include IPS Panel and Touchscreen.
+
 Resolution: Common formats include 1920x1080 and 2560x1600.
+
 Additional Features: Such as Retina Display and 4K Ultra HD.
 
 - **Extracting Panel Type, Resolution, and Additional Features**:
