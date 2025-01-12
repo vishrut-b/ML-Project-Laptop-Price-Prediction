@@ -153,6 +153,10 @@ For this project, I used python libraries including:
 
 ### 1. One-Hot Encoding
 
+One-hot encoding is a technique used to transform categorical data into a numerical format that machine learning models can understand. It creates binary (0 or 1) columns for each unique category in a categorical variable. This ensures that the model treats these categories as distinct and unrelated.
+
+However, we need to be careful while one-hot encoding the CPU Brand and GPU Brand, because in certain instances they might share the same company. This would needlessly result in two identical columns, which might potentially confuse the machine learning model. To avoid this issue, we add prefixes as shown below.
+
 - **Encoding Categorical Variables**:
 
   ```python
@@ -180,31 +184,53 @@ Other Categorical Features are encoded too like the Screen Panel Type, the Gpu a
 
 ### 2. Feature Selection
 
+We have too many features, many of which might not be contribute very much to predicting the price of a laptop. We will identify the most relevant variables from the dataset to use in the model. The key steps for feature selection are:
+
 - **Calculating Correlations**:
+
+Correlations between the features and the target variable (Price) are calculated. Correlation measures the strength of the relationship between two variables, with values ranging from -1 to 1.
+Features with high correlation values (positive or negative) to the target variable are likely to be more useful for prediction.
 
   ```python
   correlations = df.corr()['Price'].abs().sort_values()
   ```
+This calculates the absolute value of the correlation between each feature and the target (Price), sorts the features, and identifies which are most strongly associated with Price.
 
 - **Selecting Features with Correlation Above Threshold**:
 
-  ```python
-  threshold = 0.15
-  selected_features = correlations[correlations > threshold].index
-  selected_df = df[selected_features]
-  ```
+Only features with correlations greater than 0.15 are retained for modeling.
+
+
+The dataset is reduced to include only the selected features, simplifying the model and potentially improving performance by reducing noise.
 
 ### 3. Data Visualization
 
-- **Heatmap of Selected Features**:
+- **Heatmap of the selected features**:
 
-  ```python
-  plt.figure(figsize=(20, 15))
-  sns.heatmap(selected_df.corr(), annot=True, cmap='viridis')
-  plt.show()
-  ```
+A heatmap is useful for visualizing the correlation between features in a dataset: 
+- Diagonal Values: These represent self-correlation, which is always 1.
+- High Correlation (Close to 1): Indicates a strong positive relationship.
+- Low Correlation (Close to -1): Indicates a strong negative relationship.
+- Near Zero: Suggests little to no relationship.
+
+<img src="assets/css/Fig1.png" alt="Heatmap of the selected features" style="width:100%; display:block; margin:auto;">
 
 ### 4. Model Training
+
+For this project, I choose to work with Random Forest.
+
+Random Forest is an ensemble learning method based on decision trees.
+It works by creating multiple decision trees during training and combining their predictions (averaging for regression or majority voting for classification).
+
+Why Random Forest?
+
+- Robustness: it reduces overfitting because individual trees are trained on different subsets of data and features.
+- Handles Non-Linear Relationships: Random Forest can model complex, non-linear relationships between features and the target.
+- Feature Importance: it provides a measure of feature importance, helping you understand which features contribute the most to predictions.
+
+```python
+  from sklearn.ensemble import RandomForestRegressor
+  ```
 
 - **Defining Features and Target Variable**:
 
@@ -215,67 +241,54 @@ Other Categorical Features are encoded too like the Screen Panel Type, the Gpu a
 
 - **Splitting the Data**:
 
+The dataset is split into two parts:
+- Training Set: Used to train the model (learn patterns from the data).
+- Testing Set: Used to evaluate how well the model performs on unseen data.
+This ensures that the model generalizes to new, unseen data rather than simply memorizing the training data.
+
   ```python
   X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.2, random_state=42)
   ```
 
 - **Scaling the Data**:
 
+Features often have different ranges (e.g., RAM might range from 4 to 64 GB, while Weight is between 1 and 3 kg). Scaling ensures that no single feature dominates due to its larger range.
+
   ```python
   scaler = StandardScaler()
   X_train_scaled = scaler.fit_transform(X_train)
   X_test_scaled = scaler.transform(X_test)
   ```
+`fit_transform`: Computes scaling parameters (mean and standard deviation) and applies them to the training set.
+`transform`: Applies the same scaling parameters to the test set to avoid data leakage.
 
 - **Training the Random Forest Model**:
 
   ```python
-  from sklearn.ensemble import RandomForestRegressor
-
   model = RandomForestRegressor()
   model.fit(X_train_scaled, y_train)
   ```
 
 ### 5. Model Evaluation
 
+We evaluate the model to validate the model's accuracy and ensures it generalizes well beyond the training data.
+
 - **Evaluating the Model**:
+
+The R² Score measures how much of the variance in the target variable (Price) is explained by the model. Values closer to 1 indicate a better fit.
 
   ```python
   score = model.score(X_test_scaled, y_test)
   print(f'Model R^2 Score: {score}')
   ```
+**Results**: Model R² Score: 0.74
 
 - **Plotting Predicted vs. Actual Prices**:
 
-  ```python
-  y_pred = model.predict(X_test_scaled)
-  plt.figure(figsize=(8, 8))
-  plt.scatter(y_test, y_pred, s=2, label='Predicted Prices')
-  plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], color='red', label='Ideal Fit')
-  plt.xlabel('Actual Price (INR)')
-  plt.ylabel('Predicted Price (INR)')
-  plt.legend()
-  plt.show()
-  ```
+This plot shows the model's accuracy:
 
-- **Example Prediction**:
+<img src="assets/css/Fig2.png" alt="Predicted vs. Actual Prices" style="width:100%; display:block; margin:auto;">
 
-  ```python
-  i = 19  # Index of the sample
-  X_new_scaled = scaler.transform([X_test.iloc[i]])
-  predicted_price = model.predict(X_new_scaled)
-  actual_price = y_test.iloc[i]
-  print(f"Predicted Price: {predicted_price[0]:.2f} INR")
-  print(f"Actual Price: {actual_price} INR")
-  ```
-
-**Sample Output**:
-
-```
-Model R^2 Score: 0.74
-Predicted Price: 35703.05 INR
-Actual Price: 42570 INR
-```
 
 ## Conclusion
 
