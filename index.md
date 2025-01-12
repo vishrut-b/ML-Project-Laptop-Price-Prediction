@@ -52,6 +52,22 @@ The raw data was cleaned and transformed to ensure it was suitable for machine l
   missing_values = dataset.isnull().sum()
   missing_percentage = dataset.isnull().mean() * 100
   ```
+| **Feature**       | **Percentage of missing values per column** |
+|-------------------|---------------------------------------------|
+|Company            |2.302379                                     |
+|TypeName           |2.302379                                     |
+|Inches             |2.302379                                     |
+|ScreenResolution   |2.302379                                     |
+|Cpu                |2.302379                                     |
+|Ram                |2.302379                                     |
+|Memory             |2.302379                                     |
+|Gpu                |2.302379                                     |
+|OpSys              |2.302379                                     |
+|Weight             |2.302379                                     |
+|Price              |2.302379                                     |
+
+Interestingly, all the columns have the same number of missing value, that suggests that perhaps the missing values are occuring in related places and are not completely randomly distributed.
+A little exploration of the df has revealed that indeed the missing values are actually missing rows, and in that case, the cleaning procedure I would adopt is to simply drop those rows. There is not risk of losing additional information.
 
 - **Dropping Rows with Missing Values**: Since missing values occur in entire rows, we drop those rows.
 
@@ -61,7 +77,13 @@ The raw data was cleaned and transformed to ensure it was suitable for machine l
 
 ### 2. Cleaning Columns
 
-- **Removing Units from 'Ram' and 'Weight' Columns**: We remove units to convert these columns into numerical data.
+|   |**Company**|**TypeName**|**Inches**|**ScreenResolution**|**Cpu**|**Ram**|**Memory**|**Gpu**|**OpSys**|**Weight**|**Price**|
+|---|-----------|------------|----------|--------------------|-------|-------|----------|-------|---------|----------|---------|
+|0	|Apple	|Ultrabook	|13.3	|IPS Panel Retina Display 2560x1600|	Intel Core i5 2.3GHz|	8GB	|128GB SSD	|Intel Iris Plus Graphics 640	|macOS	|1.37kg	|71378.6832|
+|1	|Apple	|Ultrabook	|13.3	|1440x900	|Intel Core i5 1.8GHz	|8GB	|128GB Flash Storage|	Intel HD Graphics 6000|	macOS	|1.34kg	|47895.5232|
+|2	|HP	|Notebook	|15.6	|Full HD 1920x1080	|Intel Core i5 7200U 2.5GHz|	8GB	|256GB SSD|	Intel HD Graphics 620	|No OS	|1.86kg	|30636.0000|
+
+- **Removing Units from 'Ram' and 'Weight' Columns**: The occurrance of units in columns like weight does not add any additional meaning to the df. Another similar example is 'GB'. We remove units to convert these columns into numerical data.
 
   ```python
   dataset['Ram'] = dataset['Ram'].str.replace("GB", "")
@@ -69,6 +91,12 @@ The raw data was cleaned and transformed to ensure it was suitable for machine l
   ```
 
 ### 3. Processing 'ScreenResolution' Column
+
+The "Screen Resolution" column contains noisy and inconsistent data. To organize it effectively, we can extract and categorize the key pieces of information:
+
+Panel Type: Examples include IPS Panel and Touchscreen.
+Resolution: Common formats include 1920x1080 and 2560x1600.
+Additional Features: Such as Retina Display and 4K Ultra HD.
 
 - **Extracting Panel Type, Resolution, and Additional Features**:
 
