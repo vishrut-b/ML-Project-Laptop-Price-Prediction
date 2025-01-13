@@ -1,6 +1,9 @@
 # Laptop Price Prediction
-
+---
 This project aims to predict laptop prices based on various features extracted from a dataset of laptop specifications. The project involves data preprocessing, feature engineering, and building a predictive model using machine learning techniques.
+
+Data Processing notebook : [here](https://github.com/vishrut-b/ML-Project-Laptop-Price-Prediction/blob/main/data_processing.ipynb)<br>
+Model Training notebook : [here](https://github.com/vishrut-b/ML-Project-Laptop-Price-Prediction/blob/main/learning.ipynb)
 
 ## Table of Contents
 
